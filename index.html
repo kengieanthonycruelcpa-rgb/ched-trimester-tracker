@@ -50,7 +50,7 @@
     <div class="metric-card"><div class="val" id="m-total">0</div><div class="lbl">Total Checklist Items</div></div>
     <div class="metric-card"><div class="val" id="m-done">0</div><div class="lbl">Completed Items</div></div>
     <div class="metric-card"><div class="val" id="m-progress">0</div><div class="lbl">In Progress</div></div>
-    <div class="metric-card"><div class="val" id="m-pct">0%</div><div class="lbl">Overall Progress</div></div>
+    <div class="metric-card"><div class="val" id="m-pct">0%</div><div class="lbl">Filtered Progress</div></div>
   </div>
 
   <div class="nav-tabs">
@@ -63,6 +63,11 @@
   <div class="content-area">
     <div class="controls">
       <input type="text" id="searchInput" placeholder="Search requirement, owner, or keyword..." oninput="renderCurrentTab()">
+      
+      <select id="ownerFilter" onchange="renderCurrentTab()">
+        <option value="ALL">All Program Chairs / Responsible Units</option>
+      </select>
+
       <select id="statusFilter" onchange="renderCurrentTab()">
         <option value="ALL">All Statuses</option>
         <option value="Done">Done</option>
@@ -82,25 +87,31 @@
       try {
         const res = await fetch(`data.json?t=${Date.now()}`);
         globalData = await res.json();
-        updateMetrics();
+        populateOwnerDropdown();
         renderCurrentTab();
       } catch (e) {
         document.getElementById('tableContainer').innerText = 'Error loading application data.';
       }
     }
 
-    function updateMetrics() {
+    function populateOwnerDropdown() {
       if (!globalData || !globalData.tracker) return;
-      const t = globalData.tracker;
-      const total = t.length;
-      const done = t.filter(i => i.status.toLowerCase() === 'done').length;
-      const inProg = t.filter(i => i.status.toLowerCase() === 'in progress').length;
-      const avgPct = Math.round(t.reduce((acc, i) => acc + (i.progress || 0), 0) / (total || 1));
+      const ownerSelect = document.getElementById('ownerFilter');
+      const currentVal = ownerSelect.value;
+      
+      const owners = new Set();
+      globalData.tracker.forEach(i => {
+        if (i.owner && i.owner.trim() !== '') owners.add(i.owner.trim());
+      });
 
-      document.getElementById('m-total').innerText = total;
-      document.getElementById('m-done').innerText = done;
-      document.getElementById('m-progress').innerText = inProg;
-      document.getElementById('m-pct').innerText = `${avgPct}%`;
+      ownerSelect.innerHTML = '<option value="ALL">All Program Chairs / Responsible Units</option>';
+      Array.from(owners).sort().forEach(o => {
+        const opt = document.createElement('option');
+        opt.value = o;
+        opt.innerText = o;
+        ownerSelect.appendChild(opt);
+      });
+      ownerSelect.value = currentVal;
     }
 
     function switchTab(tabName) {
@@ -114,23 +125,35 @@
       if (!globalData) return;
       const query = document.getElementById('searchInput').value.toLowerCase();
       const status = document.getElementById('statusFilter').value;
+      const selectedOwner = document.getElementById('ownerFilter').value;
       const container = document.getElementById('tableContainer');
 
       if (currentTab === 'tracker') {
         let items = globalData.tracker.filter(i => {
           const matchQ = i.requirement.toLowerCase().includes(query) || i.owner.toLowerCase().includes(query) || i.notes.toLowerCase().includes(query);
           const matchS = status === 'ALL' || i.status === status;
-          return matchQ && matchS;
+          const matchO = selectedOwner === 'ALL' || i.owner === selectedOwner;
+          return matchQ && matchS && matchO;
         });
 
-        let html = `<table><thead><tr><th>#</th><th>Area</th><th>Requirement</th><th>Owner</th><th>Due Date</th><th>Status</th><th>Progress</th></tr></thead><tbody>`;
+        const total = items.length;
+        const done = items.filter(i => i.status.toLowerCase() === 'done').length;
+        const inProg = items.filter(i => i.status.toLowerCase() === 'in progress').length;
+        const avgPct = Math.round(items.reduce((acc, i) => acc + (i.progress || 0), 0) / (total || 1));
+
+        document.getElementById('m-total').innerText = total;
+        document.getElementById('m-done').innerText = done;
+        document.getElementById('m-progress').innerText = inProg;
+        document.getElementById('m-pct').innerText = `${avgPct}%`;
+
+        let html = `<table><thead><tr><th>#</th><th>Area</th><th>Requirement</th><th>Owner / Lead</th><th>Due Date</th><th>Status</th><th>Progress</th></tr></thead><tbody>`;
         items.forEach(i => {
           const badgeClass = i.status === 'Done' ? 'bg-done' : i.status === 'In progress' ? 'bg-progress' : 'bg-notstarted';
           html += `<tr>
             <td><strong>#${i.id}</strong></td>
             <td style="font-size:0.75rem; color:#555;">${i.area.split('—')[0]}</td>
             <td><strong>${i.requirement}</strong><br><small style="color:#666">${i.notes}</small></td>
-            <td>${i.owner}</td>
+            <td><strong>${i.owner}</strong></td>
             <td>${i.due_date}</td>
             <td><span class="badge ${badgeClass}">${i.status}</span></td>
             <td><div class="p-bar"><div class="p-fill" style="width:${i.progress}%"></div></div> ${i.progress}%</td>
@@ -139,7 +162,11 @@
         container.innerHTML = html + `</tbody></table>`;
       } 
       else if (currentTab === 'assignments') {
-        let items = globalData.assignments.filter(i => i.person.toLowerCase().includes(query) || i.role.toLowerCase().includes(query));
+        let items = globalData.assignments.filter(i => {
+          const matchQ = i.person.toLowerCase().includes(query) || i.role.toLowerCase().includes(query);
+          const matchO = selectedOwner === 'ALL' || i.person.toLowerCase().includes(selectedOwner.toLowerCase());
+          return matchQ && matchO;
+        });
         let html = `<table><thead><tr><th>Person / Office</th><th>Project Role</th><th>Items Owned</th><th>Items Supporting</th></tr></thead><tbody>`;
         items.forEach(i => {
           html += `<tr><td><strong>${i.person}</strong></td><td>${i.role}</td><td>${i.items_owned}</td><td>${i.items_supporting}</td></tr>`;
