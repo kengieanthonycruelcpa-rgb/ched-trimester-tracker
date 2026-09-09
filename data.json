@@ -1,0 +1,1780 @@
+{
+  "tracker": [
+    {
+      "area": "AREA A \u2014 GOVERNANCE & SUBMISSION",
+      "id": "1",
+      "requirement": "Transmittal letter to CHED, with copy of the Council of Program Chairs Minutes approving the offering of the new program",
+      "ched_ref": "Checklist item 1",
+      "owner": "MIS Head Jayson R. Francisco",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (drafted both documents); VPAA Sta. Ines (signatory)",
+      "due_date": "2026-09-12",
+      "status": "In progress",
+      "progress": 80,
+      "notes": "Transmittal letter accomplished and Minutes of the 27 Aug 2026 special meeting drafted by the Vice Dean, routed for signing (Res. 2026-08-01, -02, -03). Ownership transferred to the MIS Head on 3 Sep 2026 by direction of the Vice Dean. SIGNATORY CHECK: the CHED Region III Citizen's Charter requires the application letter to be signed by the Chairman of the Board of Trustees or the President, or an authorised representative \u2014 not by the VPAA. Confirm who signs before the letter is finalised."
+    },
+    {
+      "area": "AREA A \u2014 GOVERNANCE & SUBMISSION",
+      "id": "2",
+      "requirement": "CHED Program Evaluation \u2014 self-evaluation compilation against each programme's CHED Policies, Standards and Guidelines (PSG)",
+      "ched_ref": "Checklist item 2",
+      "owner": "Vice Dean Ken Gie Anthony G. Cruel",
+      "support": "All 8 Program Chairs (one PSG comparison each)",
+      "due_date": "2026-10-23",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "RESOLVED 3 Sep 2026: there is no prescribed CHED form. It is a compilation the college prepares against each programme's PSG. Corroborated by the CHED Region III Citizen's Charter, which requires a duly accomplished self-evaluation form per programme on submission. Each of the 8 Chairs supplies their own programme's PSG comparison; the Vice Dean consolidates."
+    },
+    {
+      "area": "AREA B \u2014 INSTITUTIONAL FEASIBILITY (Feasibility study for trimestral calendar)",
+      "id": "3",
+      "requirement": "Philosophy and goals of the program",
+      "ched_ref": "Checklist item 3.1",
+      "owner": "Vice Dean Ken Gie Anthony G. Cruel",
+      "support": "VPAA Sta. Ines",
+      "due_date": "2026-09-30",
+      "status": "Not started",
+      "progress": 0,
+      "notes": ""
+    },
+    {
+      "area": "AREA B \u2014 INSTITUTIONAL FEASIBILITY (Feasibility study for trimestral calendar)",
+      "id": "4",
+      "requirement": "Viability \u2014 demand for the graduates",
+      "ched_ref": "Checklist item 3.2.1",
+      "owner": "MIS Head Jayson R. Francisco",
+      "support": "All Program Chairs; Feasibility & Market Study Committee \u2014 full-time faculty, one per department",
+      "due_date": "2026-10-09",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "Phase 2 of the project plan assigns market demand data gathering to MIS with the Chairs."
+    },
+    {
+      "area": "AREA B \u2014 INSTITUTIONAL FEASIBILITY (Feasibility study for trimestral calendar)",
+      "id": "5",
+      "requirement": "Viability \u2014 prospective students",
+      "ched_ref": "Checklist item 3.2.2",
+      "owner": "MIS Head Jayson R. Francisco",
+      "support": "Registrar Laila D. Sarmiento; Feasibility & Market Study Committee \u2014 full-time faculty, one per department",
+      "due_date": "2026-10-09",
+      "status": "Not started",
+      "progress": 0,
+      "notes": ""
+    },
+    {
+      "area": "AREA B \u2014 INSTITUTIONAL FEASIBILITY (Feasibility study for trimestral calendar)",
+      "id": "6",
+      "requirement": "Viability \u2014 existing schools offering the same program within the area",
+      "ched_ref": "Checklist item 3.2.3",
+      "owner": "MIS Head Jayson R. Francisco",
+      "support": "All Program Chairs; Feasibility & Market Study Committee \u2014 full-time faculty, one per department",
+      "due_date": "2026-10-09",
+      "status": "Not started",
+      "progress": 0,
+      "notes": ""
+    },
+    {
+      "area": "AREA B \u2014 INSTITUTIONAL FEASIBILITY (Feasibility study for trimestral calendar)",
+      "id": "7",
+      "requirement": "Location of the school in relation to factors that are not conducive to learning",
+      "ched_ref": "Checklist item 3.3",
+      "owner": "VPAA / VP Admin & Finance Dr. Raquel T. Sta. Ines",
+      "support": "MIS Head Jayson R. Francisco",
+      "due_date": "2026-10-09",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "The VPAA also serves as VP for Administration and Finance, so this sits with her office."
+    },
+    {
+      "area": "AREA B \u2014 INSTITUTIONAL FEASIBILITY (Feasibility study for trimestral calendar)",
+      "id": "8",
+      "requirement": "Schedule of tuition and other fees (trimestral)",
+      "ched_ref": "Checklist item 3.4",
+      "owner": "Finance Officer Dana Marcelo",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel",
+      "due_date": "2026-10-23",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "Phase 1 of the project plan calls for the trimestral fee distribution model to be initiated."
+    },
+    {
+      "area": "AREA C \u2014 ADMINISTRATORS, FACULTY & NON-TEACHING PERSONNEL",
+      "id": "9",
+      "requirement": "School administrator spreadsheet \u2014 name, educational qualifications (where and when obtained), position/designation, nature of appointment, status, rate of monthly salary, other benefits",
+      "ched_ref": "Checklist item 4.1",
+      "owner": "HR Officer Ellarein Richelle Dela Cruz",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel",
+      "due_date": "2026-10-23",
+      "status": "Not started",
+      "progress": 0,
+      "notes": ""
+    },
+    {
+      "area": "AREA C \u2014 ADMINISTRATORS, FACULTY & NON-TEACHING PERSONNEL",
+      "id": "10",
+      "requirement": "School administrator \u2014 certified true copy of Transcript of Records, and appointment / notarized contract of employment / letter of commitment with confirmation",
+      "ched_ref": "Checklist item 4.2",
+      "owner": "HR Officer Ellarein Richelle Dela Cruz",
+      "support": "VPAA / VP Admin & Finance Dr. Raquel T. Sta. Ines",
+      "due_date": "2026-10-30",
+      "status": "Not started",
+      "progress": 0,
+      "notes": ""
+    },
+    {
+      "area": "AREA C \u2014 ADMINISTRATORS, FACULTY & NON-TEACHING PERSONNEL",
+      "id": "11",
+      "requirement": "Faculty spreadsheet (general education and major courses) \u2014 name, educational qualifications, field of specialization, course assignment, nature of appointment, status, rate of monthly salary, other benefits",
+      "ched_ref": "Checklist item 5.1",
+      "owner": "HR Officer Ellarein Richelle Dela Cruz",
+      "support": "All 8 Program Chairs (specialization and course assignment)",
+      "due_date": "2026-10-23",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "Phase 1 of the project plan has HR issuing the call-out for faculty certified true copy Transcripts of Record."
+    },
+    {
+      "area": "AREA C \u2014 ADMINISTRATORS, FACULTY & NON-TEACHING PERSONNEL",
+      "id": "12",
+      "requirement": "Faculty \u2014 certified true copies of Transcripts of Record",
+      "ched_ref": "Checklist item 5.2",
+      "owner": "HR Officer Ellarein Richelle Dela Cruz",
+      "support": "All 8 Program Chairs",
+      "due_date": "2026-10-30",
+      "status": "Not started",
+      "progress": 0,
+      "notes": ""
+    },
+    {
+      "area": "AREA C \u2014 ADMINISTRATORS, FACULTY & NON-TEACHING PERSONNEL",
+      "id": "13",
+      "requirement": "Faculty \u2014 appointment / notarized contract of employment / letter of commitment with confirmation",
+      "ched_ref": "Checklist item 5.3",
+      "owner": "HR Officer Ellarein Richelle Dela Cruz",
+      "support": "VPAA Sta. Ines",
+      "due_date": "2026-10-30",
+      "status": "Not started",
+      "progress": 0,
+      "notes": ""
+    },
+    {
+      "area": "AREA C \u2014 ADMINISTRATORS, FACULTY & NON-TEACHING PERSONNEL",
+      "id": "14",
+      "requirement": "List of non-teaching personnel",
+      "ched_ref": "Checklist item 6",
+      "owner": "VPAA / VP Admin & Finance Dr. Raquel T. Sta. Ines",
+      "support": "HR Officer Ellarein Richelle Dela Cruz",
+      "due_date": "2026-10-23",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "Checklist assigns this to Admin. There is no separate Admin Office Head \u2014 the VPAA holds the VP for Administration and Finance portfolio."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "15",
+      "requirement": "Curriculum \u2014 distribution of courses per trimester (9-term prospectus), BSA",
+      "ched_ref": "Checklist item 7.1",
+      "owner": "Vice Dean Ken Gie Anthony G. Cruel",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-09-25",
+      "status": "In progress",
+      "progress": 60,
+      "notes": "Draft 9-trimester prospectus prepared by the Vice Dean \u2014 191 total units across 9 terms. Must be recast onto the agreed template (see Reference): Course Code, Course Title, Lec Hrs, Lab Hrs, Total Hrs, Credit Units, Prerequisite(s), with a sub-total per trimester and the programme's own PSG cited in the header. Programme Chairs agreed in principle on a 14-week term (not yet final) \u2014 see Open Item 1."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "16",
+      "requirement": "Curriculum \u2014 summary of units, BSA",
+      "ched_ref": "Checklist item 7.2",
+      "owner": "Vice Dean Ken Gie Anthony G. Cruel",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-09-30",
+      "status": "In progress",
+      "progress": 60,
+      "notes": "Unit summary computed in the draft: Yr1 67, Yr2 67, Yr3 57. Two term totals still carry unresolved formulas \u2014 verify before finalising. Programme Chairs agreed in principle on a 14-week term (not yet final) \u2014 see Open Item 1."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "17",
+      "requirement": "Updated trimester curriculum \u2014 list of subjects with GE and Specialized identified, BSA",
+      "ched_ref": "Checklist item 9.1",
+      "owner": "Vice Dean Ken Gie Anthony G. Cruel",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-09-30",
+      "status": "In progress",
+      "progress": 50,
+      "notes": "General education courses are identifiable by code in the draft prospectus; the formal GE versus Specialised tagging sheet is still to be produced."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "18",
+      "requirement": "Updated trimester curriculum \u2014 sample schedule (Trimesters 1, 2 and 3), BSA",
+      "ched_ref": "Checklist item 9.2",
+      "owner": "Vice Dean Ken Gie Anthony G. Cruel",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-10-09",
+      "status": "In progress",
+      "progress": 20,
+      "notes": "The proposed AY 2027-2028 calendar is in place and the college-wide contact-hour standard is set at 54 hours per 3-unit subject. The weekly schedule grid is still blank and cannot be built until the 14-week question is settled: at 15 weeks a 3-unit subject runs 216 minutes a week, which divides into whole periods (2 x 108, 3 x 72 or 4 x 54 minutes); at 14 weeks it runs 231.4 minutes, which divides into none. The grid must also leave room for two examinations (midterm and final) and one monthly assessment per term. Programme Chairs agreed in principle on a 14-week term (not yet final) \u2014 see Open Item 1."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "19",
+      "requirement": "Curriculum \u2014 course descriptions, BSA",
+      "ched_ref": "Checklist item 7.3",
+      "owner": "Vice Dean Ken Gie Anthony G. Cruel",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository); General Education Syllabi Pool (20 shared GE, PATH-FIT, NSTP and CLE courses, written once for all 8 programs); Business Cluster Pool (shared business, economics and law courses); NO full-time BSA faculty besides the Chair \u2014 see Open Item 9",
+      "due_date": "2026-10-09",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "Awaiting the curriculum template. CAPACITY RISK: the programme-specialised courses here have no full-time author other than the Chair."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "20",
+      "requirement": "Curriculum \u2014 course syllabi (outcomes-based), BSA",
+      "ched_ref": "Checklist item 7.4",
+      "owner": "Vice Dean Ken Gie Anthony G. Cruel",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository); General Education Syllabi Pool (20 shared GE, PATH-FIT, NSTP and CLE courses, written once for all 8 programs); Business Cluster Pool (shared business, economics and law courses); NO full-time BSA faculty besides the Chair \u2014 see Open Item 9",
+      "due_date": "2026-10-16",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "ASSESSMENT SCHEME confirmed by the Vice Dean, 3 Sep 2026: two examinations per term (midterm and final), one required monthly assessment, plus regular quizzes and activities. Every syllabus must carry this scheme. CAPACITY RISK: the programme-specialised courses here have no full-time author other than the Chair."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "21",
+      "requirement": "Curriculum \u2014 distribution of courses per trimester (9-term prospectus), BSAIS",
+      "ched_ref": "Checklist item 7.1",
+      "owner": "Vice Dean Ken Gie Anthony G. Cruel",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-09-25",
+      "status": "In progress",
+      "progress": 60,
+      "notes": "Draft 9-trimester prospectus prepared by the Vice Dean \u2014 185 total units across 9 terms. Must be recast onto the agreed template (see Reference): Course Code, Course Title, Lec Hrs, Lab Hrs, Total Hrs, Credit Units, Prerequisite(s), with a sub-total per trimester and the programme's own PSG cited in the header. Programme Chairs agreed in principle on a 14-week term (not yet final) \u2014 see Open Item 1."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "22",
+      "requirement": "Curriculum \u2014 summary of units, BSAIS",
+      "ched_ref": "Checklist item 7.2",
+      "owner": "Vice Dean Ken Gie Anthony G. Cruel",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-09-30",
+      "status": "In progress",
+      "progress": 60,
+      "notes": "Unit summary computed in the draft: Yr1 67, Yr2 67, Yr3 51. Two term totals still carry unresolved formulas \u2014 verify before finalising. Programme Chairs agreed in principle on a 14-week term (not yet final) \u2014 see Open Item 1."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "23",
+      "requirement": "Updated trimester curriculum \u2014 list of subjects with GE and Specialized identified, BSAIS",
+      "ched_ref": "Checklist item 9.1",
+      "owner": "Vice Dean Ken Gie Anthony G. Cruel",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-09-30",
+      "status": "In progress",
+      "progress": 50,
+      "notes": "General education courses are identifiable by code in the draft prospectus; the formal GE versus Specialised tagging sheet is still to be produced."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "24",
+      "requirement": "Updated trimester curriculum \u2014 sample schedule (Trimesters 1, 2 and 3), BSAIS",
+      "ched_ref": "Checklist item 9.2",
+      "owner": "Vice Dean Ken Gie Anthony G. Cruel",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-10-09",
+      "status": "In progress",
+      "progress": 20,
+      "notes": "The proposed AY 2027-2028 calendar is in place and the college-wide contact-hour standard is set at 54 hours per 3-unit subject. The weekly schedule grid is still blank and cannot be built until the 14-week question is settled: at 15 weeks a 3-unit subject runs 216 minutes a week, which divides into whole periods (2 x 108, 3 x 72 or 4 x 54 minutes); at 14 weeks it runs 231.4 minutes, which divides into none. The grid must also leave room for two examinations (midterm and final) and one monthly assessment per term. Programme Chairs agreed in principle on a 14-week term (not yet final) \u2014 see Open Item 1."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "25",
+      "requirement": "Curriculum \u2014 course descriptions, BSAIS",
+      "ched_ref": "Checklist item 7.3",
+      "owner": "Vice Dean Ken Gie Anthony G. Cruel",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository); General Education Syllabi Pool (20 shared GE, PATH-FIT, NSTP and CLE courses, written once for all 8 programs); Business Cluster Pool (shared business, economics and law courses); NO full-time BSAIS faculty besides the Chair \u2014 see Open Item 9",
+      "due_date": "2026-10-09",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "Awaiting the curriculum template. CAPACITY RISK: the programme-specialised courses here have no full-time author other than the Chair."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "26",
+      "requirement": "Curriculum \u2014 course syllabi (outcomes-based), BSAIS",
+      "ched_ref": "Checklist item 7.4",
+      "owner": "Vice Dean Ken Gie Anthony G. Cruel",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository); General Education Syllabi Pool (20 shared GE, PATH-FIT, NSTP and CLE courses, written once for all 8 programs); Business Cluster Pool (shared business, economics and law courses); NO full-time BSAIS faculty besides the Chair \u2014 see Open Item 9",
+      "due_date": "2026-10-16",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "ASSESSMENT SCHEME confirmed by the Vice Dean, 3 Sep 2026: two examinations per term (midterm and final), one required monthly assessment, plus regular quizzes and activities. Every syllabus must carry this scheme. CAPACITY RISK: the programme-specialised courses here have no full-time author other than the Chair."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "27",
+      "requirement": "Curriculum \u2014 distribution of courses per trimester (9-term prospectus), BSBA",
+      "ched_ref": "Checklist item 7.1",
+      "owner": "Program Chair Ranilo S. Castillo II",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-09-25",
+      "status": "In progress",
+      "progress": 60,
+      "notes": "Draft 9-trimester prospectus under preparation by the Programme Chair. The BSCRIM submission is the working template \u2014 see the Reference sheet for its required structure. Programme Chairs agreed in principle on a 14-week term (not yet final) \u2014 see Open Item 1."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "28",
+      "requirement": "Curriculum \u2014 summary of units, BSBA",
+      "ched_ref": "Checklist item 7.2",
+      "owner": "Program Chair Ranilo S. Castillo II",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-09-30",
+      "status": "In progress",
+      "progress": 60,
+      "notes": "Unit summary being computed from the draft prospectus. Use the BSCRIM summary table format: units by category code, then total. Programme Chairs agreed in principle on a 14-week term (not yet final) \u2014 see Open Item 1."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "29",
+      "requirement": "Updated trimester curriculum \u2014 list of subjects with GE and Specialized identified, BSBA",
+      "ched_ref": "Checklist item 9.1",
+      "owner": "Program Chair Ranilo S. Castillo II",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-09-30",
+      "status": "In progress",
+      "progress": 50,
+      "notes": "General education courses are identifiable by code in the draft prospectus; the formal GE versus Specialised tagging sheet is still to be produced."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "30",
+      "requirement": "Updated trimester curriculum \u2014 sample schedule (Trimesters 1, 2 and 3), BSBA",
+      "ched_ref": "Checklist item 9.2",
+      "owner": "Program Chair Ranilo S. Castillo II",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-10-09",
+      "status": "In progress",
+      "progress": 20,
+      "notes": "The proposed AY 2027-2028 calendar is in place and the college-wide contact-hour standard is set at 54 hours per 3-unit subject. The weekly schedule grid is still blank and cannot be built until the 14-week question is settled: at 15 weeks a 3-unit subject runs 216 minutes a week, which divides into whole periods (2 x 108, 3 x 72 or 4 x 54 minutes); at 14 weeks it runs 231.4 minutes, which divides into none. The grid must also leave room for two examinations (midterm and final) and one monthly assessment per term. Programme Chairs agreed in principle on a 14-week term (not yet final) \u2014 see Open Item 1."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "31",
+      "requirement": "Curriculum \u2014 course descriptions, BSBA",
+      "ched_ref": "Checklist item 7.3",
+      "owner": "Program Chair Ranilo S. Castillo II",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository); General Education Syllabi Pool (20 shared GE, PATH-FIT, NSTP and CLE courses, written once for all 8 programs); Business Cluster Pool (shared business, economics and law courses); 4 full-time BSBA faculty",
+      "due_date": "2026-10-09",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "Awaiting the curriculum template."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "32",
+      "requirement": "Curriculum \u2014 course syllabi (outcomes-based), BSBA",
+      "ched_ref": "Checklist item 7.4",
+      "owner": "Program Chair Ranilo S. Castillo II",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository); General Education Syllabi Pool (20 shared GE, PATH-FIT, NSTP and CLE courses, written once for all 8 programs); Business Cluster Pool (shared business, economics and law courses); 4 full-time BSBA faculty",
+      "due_date": "2026-10-16",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "ASSESSMENT SCHEME confirmed by the Vice Dean, 3 Sep 2026: two examinations per term (midterm and final), one required monthly assessment, plus regular quizzes and activities. Every syllabus must carry this scheme."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "33",
+      "requirement": "Curriculum \u2014 distribution of courses per trimester (9-term prospectus), BSCS",
+      "ched_ref": "Checklist item 7.1",
+      "owner": "Program Chair John Philip N. Diamat",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-09-25",
+      "status": "In progress",
+      "progress": 60,
+      "notes": "Draft 9-trimester prospectus under preparation by the Programme Chair. The BSCRIM submission is the working template \u2014 see the Reference sheet for its required structure. Programme Chairs agreed in principle on a 14-week term (not yet final) \u2014 see Open Item 1."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "34",
+      "requirement": "Curriculum \u2014 summary of units, BSCS",
+      "ched_ref": "Checklist item 7.2",
+      "owner": "Program Chair John Philip N. Diamat",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-09-30",
+      "status": "In progress",
+      "progress": 60,
+      "notes": "Unit summary being computed from the draft prospectus. Use the BSCRIM summary table format: units by category code, then total. Programme Chairs agreed in principle on a 14-week term (not yet final) \u2014 see Open Item 1."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "35",
+      "requirement": "Updated trimester curriculum \u2014 list of subjects with GE and Specialized identified, BSCS",
+      "ched_ref": "Checklist item 9.1",
+      "owner": "Program Chair John Philip N. Diamat",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-09-30",
+      "status": "In progress",
+      "progress": 50,
+      "notes": "General education courses are identifiable by code in the draft prospectus; the formal GE versus Specialised tagging sheet is still to be produced."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "36",
+      "requirement": "Updated trimester curriculum \u2014 sample schedule (Trimesters 1, 2 and 3), BSCS",
+      "ched_ref": "Checklist item 9.2",
+      "owner": "Program Chair John Philip N. Diamat",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-10-09",
+      "status": "In progress",
+      "progress": 20,
+      "notes": "The proposed AY 2027-2028 calendar is in place and the college-wide contact-hour standard is set at 54 hours per 3-unit subject. The weekly schedule grid is still blank and cannot be built until the 14-week question is settled: at 15 weeks a 3-unit subject runs 216 minutes a week, which divides into whole periods (2 x 108, 3 x 72 or 4 x 54 minutes); at 14 weeks it runs 231.4 minutes, which divides into none. The grid must also leave room for two examinations (midterm and final) and one monthly assessment per term. Programme Chairs agreed in principle on a 14-week term (not yet final) \u2014 see Open Item 1."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "37",
+      "requirement": "Curriculum \u2014 course descriptions, BSCS",
+      "ched_ref": "Checklist item 7.3",
+      "owner": "Program Chair John Philip N. Diamat",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository); General Education Syllabi Pool (20 shared GE, PATH-FIT, NSTP and CLE courses, written once for all 8 programs); 1 full-time BSCS faculty",
+      "due_date": "2026-10-09",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "Awaiting the curriculum template."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "38",
+      "requirement": "Curriculum \u2014 course syllabi (outcomes-based), BSCS",
+      "ched_ref": "Checklist item 7.4",
+      "owner": "Program Chair John Philip N. Diamat",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository); General Education Syllabi Pool (20 shared GE, PATH-FIT, NSTP and CLE courses, written once for all 8 programs); 1 full-time BSCS faculty",
+      "due_date": "2026-10-16",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "ASSESSMENT SCHEME confirmed by the Vice Dean, 3 Sep 2026: two examinations per term (midterm and final), one required monthly assessment, plus regular quizzes and activities. Every syllabus must carry this scheme."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "39",
+      "requirement": "Curriculum \u2014 distribution of courses per trimester (9-term prospectus), BSHM",
+      "ched_ref": "Checklist item 7.1",
+      "owner": "Program Chair Stephanie S. Ciasico",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-09-25",
+      "status": "In progress",
+      "progress": 60,
+      "notes": "Draft 9-trimester prospectus under preparation by the Programme Chair. The BSCRIM submission is the working template \u2014 see the Reference sheet for its required structure. Programme Chairs agreed in principle on a 14-week term (not yet final) \u2014 see Open Item 1."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "40",
+      "requirement": "Curriculum \u2014 summary of units, BSHM",
+      "ched_ref": "Checklist item 7.2",
+      "owner": "Program Chair Stephanie S. Ciasico",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-09-30",
+      "status": "In progress",
+      "progress": 60,
+      "notes": "Unit summary being computed from the draft prospectus. Use the BSCRIM summary table format: units by category code, then total. Programme Chairs agreed in principle on a 14-week term (not yet final) \u2014 see Open Item 1."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "41",
+      "requirement": "Updated trimester curriculum \u2014 list of subjects with GE and Specialized identified, BSHM",
+      "ched_ref": "Checklist item 9.1",
+      "owner": "Program Chair Stephanie S. Ciasico",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-09-30",
+      "status": "In progress",
+      "progress": 50,
+      "notes": "General education courses are identifiable by code in the draft prospectus; the formal GE versus Specialised tagging sheet is still to be produced."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "42",
+      "requirement": "Updated trimester curriculum \u2014 sample schedule (Trimesters 1, 2 and 3), BSHM",
+      "ched_ref": "Checklist item 9.2",
+      "owner": "Program Chair Stephanie S. Ciasico",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-10-09",
+      "status": "In progress",
+      "progress": 20,
+      "notes": "The proposed AY 2027-2028 calendar is in place and the college-wide contact-hour standard is set at 54 hours per 3-unit subject. The weekly schedule grid is still blank and cannot be built until the 14-week question is settled: at 15 weeks a 3-unit subject runs 216 minutes a week, which divides into whole periods (2 x 108, 3 x 72 or 4 x 54 minutes); at 14 weeks it runs 231.4 minutes, which divides into none. The grid must also leave room for two examinations (midterm and final) and one monthly assessment per term. Programme Chairs agreed in principle on a 14-week term (not yet final) \u2014 see Open Item 1."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "43",
+      "requirement": "Curriculum \u2014 course descriptions, BSHM",
+      "ched_ref": "Checklist item 7.3",
+      "owner": "Program Chair Stephanie S. Ciasico",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository); General Education Syllabi Pool (20 shared GE, PATH-FIT, NSTP and CLE courses, written once for all 8 programs); Business Cluster Pool (shared business, economics and law courses); 3 full-time BSHM faculty",
+      "due_date": "2026-10-09",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "Awaiting the curriculum template."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "44",
+      "requirement": "Curriculum \u2014 course syllabi (outcomes-based), BSHM",
+      "ched_ref": "Checklist item 7.4",
+      "owner": "Program Chair Stephanie S. Ciasico",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository); General Education Syllabi Pool (20 shared GE, PATH-FIT, NSTP and CLE courses, written once for all 8 programs); Business Cluster Pool (shared business, economics and law courses); 3 full-time BSHM faculty",
+      "due_date": "2026-10-16",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "ASSESSMENT SCHEME confirmed by the Vice Dean, 3 Sep 2026: two examinations per term (midterm and final), one required monthly assessment, plus regular quizzes and activities. Every syllabus must carry this scheme."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "45",
+      "requirement": "Curriculum \u2014 distribution of courses per trimester (9-term prospectus), BSCRIM",
+      "ched_ref": "Checklist item 7.1",
+      "owner": "Program Chair Samantha Rose C. Pisto",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-09-25",
+      "status": "For review",
+      "progress": 75,
+      "notes": "Complete 9-trimester prospectus submitted on the agreed template \u2014 192 total units, citing CMO 05 s.2018 and CMO 20 s.2013. FIVE DEFECTS FOUND ON REVIEW, all for the Programme Chair to resolve: (1) PCES-CRC Professional Conduct & Ethical Standard appears twice, in Trimesters 2 and 3; (2) RES1-CRC Criminological Research 1 appears twice, in Trimesters 6 and 7; (3) PCJS-CLJ is named as a prerequisite by four courses \u2014 HRE-CLJ, JDJS-CRC, INST-COR and DRIM-CRC \u2014 but is never offered in any of the nine trimesters; (4) TOXI-FRC lists CHEM-GEE as its prerequisite but the course offered in Trimester 3 is coded CHEM-GEC; (5) Trimesters 4 and 5 carry 25 units each, which at the 54-hour standard is 450 hours, or 7.5 teaching hours a day over four days. Programme Chairs agreed in principle on a 14-week term (not yet final) \u2014 see Open Item 1."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "46",
+      "requirement": "Curriculum \u2014 summary of units, BSCRIM",
+      "ched_ref": "Checklist item 7.2",
+      "owner": "Program Chair Samantha Rose C. Pisto",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-09-30",
+      "status": "For review",
+      "progress": 75,
+      "notes": "Summary table present and internally consistent: 33 GE Core plus Rizal, 15 GE Electives, 8 PE, 6 NSTP, 19 Core, 105 Major, 6 Internship = 192 units. Trimester sub-totals also foot. Recheck after the duplicate courses in item 45 are removed, since removing them changes the totals."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "47",
+      "requirement": "Updated trimester curriculum \u2014 list of subjects with GE and Specialized identified, BSCRIM",
+      "ched_ref": "Checklist item 9.1",
+      "owner": "Program Chair Samantha Rose C. Pisto",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-09-30",
+      "status": "In progress",
+      "progress": 50,
+      "notes": "General education courses are identifiable by code in the draft prospectus; the formal GE versus Specialised tagging sheet is still to be produced."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "48",
+      "requirement": "Updated trimester curriculum \u2014 sample schedule (Trimesters 1, 2 and 3), BSCRIM",
+      "ched_ref": "Checklist item 9.2",
+      "owner": "Program Chair Samantha Rose C. Pisto",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-10-09",
+      "status": "In progress",
+      "progress": 20,
+      "notes": "The proposed AY 2027-2028 calendar is in place and the college-wide contact-hour standard is set at 54 hours per 3-unit subject. The weekly schedule grid is still blank and cannot be built until the 14-week question is settled: at 15 weeks a 3-unit subject runs 216 minutes a week, which divides into whole periods (2 x 108, 3 x 72 or 4 x 54 minutes); at 14 weeks it runs 231.4 minutes, which divides into none. The grid must also leave room for two examinations (midterm and final) and one monthly assessment per term. Programme Chairs agreed in principle on a 14-week term (not yet final) \u2014 see Open Item 1."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "49",
+      "requirement": "Curriculum \u2014 course descriptions, BSCRIM",
+      "ched_ref": "Checklist item 7.3",
+      "owner": "Program Chair Samantha Rose C. Pisto",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository); General Education Syllabi Pool (20 shared GE, PATH-FIT, NSTP and CLE courses, written once for all 8 programs); 5 full-time BSCRIM faculty",
+      "due_date": "2026-10-09",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "Awaiting the curriculum template."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "50",
+      "requirement": "Curriculum \u2014 course syllabi (outcomes-based), BSCRIM",
+      "ched_ref": "Checklist item 7.4",
+      "owner": "Program Chair Samantha Rose C. Pisto",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository); General Education Syllabi Pool (20 shared GE, PATH-FIT, NSTP and CLE courses, written once for all 8 programs); 5 full-time BSCRIM faculty",
+      "due_date": "2026-10-16",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "ASSESSMENT SCHEME confirmed by the Vice Dean, 3 Sep 2026: two examinations per term (midterm and final), one required monthly assessment, plus regular quizzes and activities. Every syllabus must carry this scheme."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "51",
+      "requirement": "Curriculum \u2014 distribution of courses per trimester (9-term prospectus), BEED",
+      "ched_ref": "Checklist item 7.1",
+      "owner": "Program Chair Kent E. Garcia",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-09-25",
+      "status": "In progress",
+      "progress": 60,
+      "notes": "Draft 9-trimester prospectus under preparation by the Programme Chair. The BSCRIM submission is the working template \u2014 see the Reference sheet for its required structure. Programme Chairs agreed in principle on a 14-week term (not yet final) \u2014 see Open Item 1."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "52",
+      "requirement": "Curriculum \u2014 summary of units, BEED",
+      "ched_ref": "Checklist item 7.2",
+      "owner": "Program Chair Kent E. Garcia",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-09-30",
+      "status": "In progress",
+      "progress": 60,
+      "notes": "Unit summary being computed from the draft prospectus. Use the BSCRIM summary table format: units by category code, then total. Programme Chairs agreed in principle on a 14-week term (not yet final) \u2014 see Open Item 1."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "53",
+      "requirement": "Updated trimester curriculum \u2014 list of subjects with GE and Specialized identified, BEED",
+      "ched_ref": "Checklist item 9.1",
+      "owner": "Program Chair Kent E. Garcia",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-09-30",
+      "status": "In progress",
+      "progress": 50,
+      "notes": "General education courses are identifiable by code in the draft prospectus; the formal GE versus Specialised tagging sheet is still to be produced."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "54",
+      "requirement": "Updated trimester curriculum \u2014 sample schedule (Trimesters 1, 2 and 3), BEED",
+      "ched_ref": "Checklist item 9.2",
+      "owner": "Program Chair Kent E. Garcia",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-10-09",
+      "status": "In progress",
+      "progress": 20,
+      "notes": "The proposed AY 2027-2028 calendar is in place and the college-wide contact-hour standard is set at 54 hours per 3-unit subject. The weekly schedule grid is still blank and cannot be built until the 14-week question is settled: at 15 weeks a 3-unit subject runs 216 minutes a week, which divides into whole periods (2 x 108, 3 x 72 or 4 x 54 minutes); at 14 weeks it runs 231.4 minutes, which divides into none. The grid must also leave room for two examinations (midterm and final) and one monthly assessment per term. Programme Chairs agreed in principle on a 14-week term (not yet final) \u2014 see Open Item 1."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "55",
+      "requirement": "Curriculum \u2014 course descriptions, BEED",
+      "ched_ref": "Checklist item 7.3",
+      "owner": "Program Chair Kent E. Garcia",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository); General Education Syllabi Pool (20 shared GE, PATH-FIT, NSTP and CLE courses, written once for all 8 programs); 14 full-time BEED faculty",
+      "due_date": "2026-10-09",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "Awaiting the curriculum template."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "56",
+      "requirement": "Curriculum \u2014 course syllabi (outcomes-based), BEED",
+      "ched_ref": "Checklist item 7.4",
+      "owner": "Program Chair Kent E. Garcia",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository); General Education Syllabi Pool (20 shared GE, PATH-FIT, NSTP and CLE courses, written once for all 8 programs); 14 full-time BEED faculty",
+      "due_date": "2026-10-16",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "ASSESSMENT SCHEME confirmed by the Vice Dean, 3 Sep 2026: two examinations per term (midterm and final), one required monthly assessment, plus regular quizzes and activities. Every syllabus must carry this scheme."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "57",
+      "requirement": "Curriculum \u2014 distribution of courses per trimester (9-term prospectus), BSED",
+      "ched_ref": "Checklist item 7.1",
+      "owner": "Program Chair Kent E. Garcia",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-09-25",
+      "status": "In progress",
+      "progress": 60,
+      "notes": "Draft 9-trimester prospectus under preparation by the Programme Chair. The BSCRIM submission is the working template \u2014 see the Reference sheet for its required structure. Programme Chairs agreed in principle on a 14-week term (not yet final) \u2014 see Open Item 1."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "58",
+      "requirement": "Curriculum \u2014 summary of units, BSED",
+      "ched_ref": "Checklist item 7.2",
+      "owner": "Program Chair Kent E. Garcia",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-09-30",
+      "status": "In progress",
+      "progress": 60,
+      "notes": "Unit summary being computed from the draft prospectus. Use the BSCRIM summary table format: units by category code, then total. Programme Chairs agreed in principle on a 14-week term (not yet final) \u2014 see Open Item 1."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "59",
+      "requirement": "Updated trimester curriculum \u2014 list of subjects with GE and Specialized identified, BSED",
+      "ched_ref": "Checklist item 9.1",
+      "owner": "Program Chair Kent E. Garcia",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-09-30",
+      "status": "In progress",
+      "progress": 50,
+      "notes": "General education courses are identifiable by code in the draft prospectus; the formal GE versus Specialised tagging sheet is still to be produced."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "60",
+      "requirement": "Updated trimester curriculum \u2014 sample schedule (Trimesters 1, 2 and 3), BSED",
+      "ched_ref": "Checklist item 9.2",
+      "owner": "Program Chair Kent E. Garcia",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository)",
+      "due_date": "2026-10-09",
+      "status": "In progress",
+      "progress": 20,
+      "notes": "The proposed AY 2027-2028 calendar is in place and the college-wide contact-hour standard is set at 54 hours per 3-unit subject. The weekly schedule grid is still blank and cannot be built until the 14-week question is settled: at 15 weeks a 3-unit subject runs 216 minutes a week, which divides into whole periods (2 x 108, 3 x 72 or 4 x 54 minutes); at 14 weeks it runs 231.4 minutes, which divides into none. The grid must also leave room for two examinations (midterm and final) and one monthly assessment per term. Programme Chairs agreed in principle on a 14-week term (not yet final) \u2014 see Open Item 1."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "61",
+      "requirement": "Curriculum \u2014 course descriptions, BSED",
+      "ched_ref": "Checklist item 7.3",
+      "owner": "Program Chair Kent E. Garcia",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository); General Education Syllabi Pool (20 shared GE, PATH-FIT, NSTP and CLE courses, written once for all 8 programs); 14 full-time BSED faculty",
+      "due_date": "2026-10-09",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "Awaiting the curriculum template."
+    },
+    {
+      "area": "AREA D \u2014 CURRICULUM (per program)",
+      "id": "62",
+      "requirement": "Curriculum \u2014 course syllabi (outcomes-based), BSED",
+      "ched_ref": "Checklist item 7.4",
+      "owner": "Program Chair Kent E. Garcia",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel (compliance audit); MIS Head Jayson R. Francisco (repository); General Education Syllabi Pool (20 shared GE, PATH-FIT, NSTP and CLE courses, written once for all 8 programs); 14 full-time BSED faculty",
+      "due_date": "2026-10-16",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "ASSESSMENT SCHEME confirmed by the Vice Dean, 3 Sep 2026: two examinations per term (midterm and final), one required monthly assessment, plus regular quizzes and activities. Every syllabus must carry this scheme."
+    },
+    {
+      "area": "AREA E \u2014 LIBRARY",
+      "id": "63",
+      "requirement": "Librarian \u2014 qualification and status per appointment",
+      "ched_ref": "Checklist item 8.1",
+      "owner": "Library Lead Annabelle Pastrana",
+      "support": "HR Officer Ellarein Richelle Dela Cruz",
+      "due_date": "2026-09-30",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "There is no appointed head librarian. Annabelle Pastrana acts as Library Lead in the meantime; Sta. Cruz and Bernardo complete the library team. This item asks for the librarian's qualification and status per appointment, so a designation memo naming Ms. Pastrana as Officer-in-Charge must be issued and attached \u2014 the name alone will not close this row."
+    },
+    {
+      "area": "AREA E \u2014 LIBRARY",
+      "id": "64",
+      "requirement": "List of library facilities",
+      "ched_ref": "Checklist item 8.2",
+      "owner": "Library Lead Annabelle Pastrana",
+      "support": "VPAA / VP Admin & Finance Dr. Raquel T. Sta. Ines",
+      "due_date": "2026-09-30",
+      "status": "Not started",
+      "progress": 0,
+      "notes": ""
+    },
+    {
+      "area": "AREA E \u2014 LIBRARY",
+      "id": "65",
+      "requirement": "Library seating capacity",
+      "ched_ref": "Checklist item 8.3",
+      "owner": "Library Lead Annabelle Pastrana",
+      "support": "VPAA / VP Admin & Finance Dr. Raquel T. Sta. Ines",
+      "due_date": "2026-09-30",
+      "status": "Not started",
+      "progress": 0,
+      "notes": ""
+    },
+    {
+      "area": "AREA E \u2014 LIBRARY",
+      "id": "66",
+      "requirement": "Library collections spreadsheet (books, journals, magazines, dictionaries, almanacs) \u2014 author, title, year of publication, number of volumes",
+      "ched_ref": "Checklist item 8.4.1",
+      "owner": "Library Lead Annabelle Pastrana",
+      "support": "Sta. Cruz (also Teacher Education faculty); Bernardo (also Hospitality Management faculty); Library Collection Committee \u2014 full-time faculty, one per department",
+      "due_date": "2026-10-09",
+      "status": "Not started",
+      "progress": 0,
+      "notes": ""
+    },
+    {
+      "area": "AREA E \u2014 LIBRARY",
+      "id": "67",
+      "requirement": "List of 5 non-duplicated titles per subject in the curriculum, published within the last 5 years",
+      "ched_ref": "Checklist item 8.4.2",
+      "owner": "Library Lead Annabelle Pastrana",
+      "support": "Sta. Cruz; Bernardo; All 8 Program Chairs (subject lists); Library Collection Committee \u2014 full-time faculty, one per department",
+      "due_date": "2026-10-16",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "Project plan reads this as titles published 2021-2026. Depends on the curriculum subject lists (item 9.1) for all 8 programs."
+    },
+    {
+      "area": "AREA E \u2014 LIBRARY",
+      "id": "68",
+      "requirement": "List of book collections / accessioned books (start-up 3,000 books; recognition 5,000 books)",
+      "ched_ref": "Checklist item 8.4.3",
+      "owner": "Library Lead Annabelle Pastrana",
+      "support": "Sta. Cruz (also Teacher Education faculty); Bernardo (also Hospitality Management faculty)",
+      "due_date": "2026-10-16",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "OPEN ITEM 3 \u2014 confirm whether the 3,000 or the 5,000 threshold applies to a trimestral conversion of existing programs."
+    },
+    {
+      "area": "AREA E \u2014 LIBRARY",
+      "id": "69",
+      "requirement": "List of subscribed journals",
+      "ched_ref": "Checklist item 8.4.4",
+      "owner": "Library Lead Annabelle Pastrana",
+      "support": "Sta. Cruz (also Teacher Education faculty); Bernardo (also Hospitality Management faculty)",
+      "due_date": "2026-10-09",
+      "status": "Not started",
+      "progress": 0,
+      "notes": ""
+    },
+    {
+      "area": "AREA F \u2014 CONSOLIDATION & FILING  (from the internal project plan \u2014 not items on the CHED checklist)",
+      "id": "70",
+      "requirement": "Index, print, digitise and assemble the hard copy and soft copy master application binders",
+      "ched_ref": "Internal \u2014 project plan Phase 3",
+      "owner": "MIS Head Jayson R. Francisco",
+      "support": "Admin staff; Vice Dean Ken Gie Anthony G. Cruel",
+      "due_date": "2026-11-06",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "OPEN ITEM 4 \u2014 number of binder copies required by CHED Region III not yet confirmed."
+    },
+    {
+      "area": "AREA F \u2014 CONSOLIDATION & FILING  (from the internal project plan \u2014 not items on the CHED checklist)",
+      "id": "71",
+      "requirement": "Secure executive endorsement of the completed dossier",
+      "ched_ref": "Internal \u2014 project plan Phase 4",
+      "owner": "Vice Dean Ken Gie Anthony G. Cruel",
+      "support": "Dean Dr. Almario B. Garcia; VPAA Dr. Raquel T. Sta. Ines",
+      "due_date": "2026-11-10",
+      "status": "Not started",
+      "progress": 0,
+      "notes": ""
+    },
+    {
+      "area": "AREA F \u2014 CONSOLIDATION & FILING  (from the internal project plan \u2014 not items on the CHED checklist)",
+      "id": "72",
+      "requirement": "File the application dossier with CHED Region III and secure the receiving copy",
+      "ched_ref": "Internal \u2014 project plan Phase 4",
+      "owner": "Vice Dean Ken Gie Anthony G. Cruel",
+      "support": "MIS Head Jayson R. Francisco; administrative staff",
+      "due_date": "2026-11-13",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "Target submission date set by Council Resolution 2026-08-03."
+    },
+    {
+      "area": "AREA F \u2014 CONSOLIDATION & FILING  (from the internal project plan \u2014 not items on the CHED checklist)",
+      "id": "73",
+      "requirement": "Secure written clarification from CHED Region III on the five unresolved requirement questions",
+      "ched_ref": "Internal \u2014 raised by the Vice Dean, 3 Sep 2026",
+      "owner": "MIS Head Jayson R. Francisco",
+      "support": "Vice Dean Ken Gie Anthony G. Cruel",
+      "due_date": "2026-09-25",
+      "status": "Not started",
+      "progress": 0,
+      "notes": "Covers Open Items 2 to 5 \u2014 the questions only CHED Region III can answer. (Open Item 1, the 14-versus-15-week term length, is for the Council of Chairs, not CHED.) The questions are: which form is meant by 'CHED Program Evaluation'; which issuance governs a shift to trimestral delivery; whether the 3,000 or 5,000 book threshold applies to a conversion of existing programmes; how many hard and soft copies Region III requires; and whether syllabi are needed for every course or only new and re-sequenced ones. The syllabi question is the one that matters most \u2014 it drives the 16 October deadline on items 15 to 62, which is why this is dated 25 September."
+    }
+  ],
+  "assignments": [
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Vice Dean Ken Gie Anthony G. Cruel",
+      "role": "Co-Lead, CHED Application Task Force; Program Chair for BSA and BSAIS; overall compliance audit and filing. Sole full-time author for the programme-specialised accountancy and AIS courses \u2014 see Open Item 9",
+      "items_owned": "16 items: #2\u20133, 15\u201326, 71\u201372",
+      "items_supporting": "46 items: #1, 4, 6, 8\u20139, 11\u201312, 27\u201362, 67, 70, 73"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "MIS Head Jayson R. Francisco",
+      "role": "Co-Lead, CHED Application Task Force; owner of the transmittal letter and minutes package (item 1, transferred 3 Sep 2026); chairs the Feasibility & Market Study Committee; document repository and binder assembly; carries the outstanding CHED Region III questions (item 73)",
+      "items_owned": "6 items: #1, 4\u20136, 70, 73",
+      "items_supporting": "50 items: #7, 15\u201362, 72"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "VPAA / VP Admin & Finance Dr. Raquel T. Sta. Ines",
+      "role": "Presiding officer, Council of Program Chairs; signatory and approving authority; also holds the VP for Administration and Finance portfolio, so the non-teaching personnel list and the school location report sit with her office",
+      "items_owned": "2 items: #7, 14",
+      "items_supporting": "7 items: #1, 3, 10, 13, 64\u201365, 71"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Dean Dr. Almario B. Garcia",
+      "role": "Co-Lead, CHED Application Task Force (added 3 Sep 2026 by direction of the Vice Dean, alongside the Vice Dean and the MIS Head); College Dean; executive endorsement of the completed dossier",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "1 item: #71"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "HR Officer Ellarein Richelle Dela Cruz",
+      "role": "Owner of all administrator, faculty and personnel records",
+      "items_owned": "5 items: #9\u201313",
+      "items_supporting": "2 items: #14, 63"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Library Lead Annabelle Pastrana",
+      "role": "Acting Library Lead \u2014 owner of the complete library section; chairs the Library Collection Committee",
+      "items_owned": "7 items: #63\u201369",
+      "items_supporting": "\u2014"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Program Chair Kent E. Garcia",
+      "role": "Program Chair, Teacher Education \u2014 BEED and BSED curriculum; chairs their Curriculum & Syllabi Committee; his department supplies the General Education Syllabi Pool for the whole college",
+      "items_owned": "12 items: #51\u201362",
+      "items_supporting": "6 items: #2, 4, 6, 11\u201312, 67"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Program Chair Ranilo S. Castillo II",
+      "role": "Program Chair, Business Administration \u2014 BSBA curriculum; his department supplies the Business Cluster Pool for BSA, BSAIS and BSHM",
+      "items_owned": "6 items: #27\u201332",
+      "items_supporting": "6 items: #2, 4, 6, 11\u201312, 67"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Program Chair John Philip N. Diamat",
+      "role": "Program Chair, Computer Science \u2014 BSCS curriculum. Sole full-time author for the programme-specialised computer science courses \u2014 see Open Item 9",
+      "items_owned": "6 items: #33\u201338",
+      "items_supporting": "6 items: #2, 4, 6, 11\u201312, 67"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Program Chair Stephanie S. Ciasico",
+      "role": "Program Chair, Hospitality Management \u2014 BSHM curriculum; chairs its Curriculum & Syllabi Committee",
+      "items_owned": "6 items: #39\u201344",
+      "items_supporting": "6 items: #2, 4, 6, 11\u201312, 67"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Program Chair Samantha Rose C. Pisto",
+      "role": "Program Chair, Criminal Justice Education \u2014 BSCRIM curriculum; chairs its Curriculum & Syllabi Committee",
+      "items_owned": "6 items: #45\u201350",
+      "items_supporting": "6 items: #2, 4, 6, 11\u201312, 67"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Finance Officer Dana Marcelo",
+      "role": "Trimestral tuition and fee schedule",
+      "items_owned": "1 item: #8",
+      "items_supporting": "\u2014"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Registrar Laila D. Sarmiento",
+      "role": "Enrolment and prospective-student data for the feasibility study",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "1 item: #5"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "ACCOUNTANCY & AIS \u2014 Curriculum & Syllabi Committee for BSA and BSAIS (chaired by Vice Dean Cruel)  (NO full-time faculty besides the Chair; 5 part-time not tasked)",
+      "role": "",
+      "items_owned": "",
+      "items_supporting": ""
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "\u2014 no full-time faculty \u2014",
+      "role": "All programme-specialised course descriptions and syllabi for this department fall to the Chair alone. General education courses are covered by the General Education Syllabi Pool and, where applicable, the Business Cluster Pool. See Open Item 9.",
+      "items_owned": "\u2014",
+      "items_supporting": "\u2014"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "BUSINESS ADMINISTRATION \u2014 Curriculum & Syllabi Committee for BSBA (chaired by Chair Castillo)  (4 full-time faculty tasked; 1 part-time not tasked)",
+      "role": "",
+      "items_owned": "",
+      "items_supporting": ""
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Aquino, Ann Jellie B.",
+      "role": "Curriculum & Syllabi \u2014 BSBA; Business Cluster Pool (BSA/BSAIS/BSBA/BSHM); Feasibility & Market Study  [FT, 24 units, 6 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "11 items: #4\u20136, 19\u201320, 25\u201326, 31\u201332, 43\u201344"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Bauat, Jhosalyn",
+      "role": "Curriculum & Syllabi \u2014 BSBA; Business Cluster Pool (BSA/BSAIS/BSBA/BSHM)  [FT, 24 units, 6 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "8 items: #19\u201320, 25\u201326, 31\u201332, 43\u201344"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Dela Cruz, Jacqueline",
+      "role": "Curriculum & Syllabi \u2014 BSBA; Business Cluster Pool (BSA/BSAIS/BSBA/BSHM); Library Collection  [FT, 24 units, 5 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "10 items: #19\u201320, 25\u201326, 31\u201332, 43\u201344, 66\u201367"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Salas, Kristine Joy",
+      "role": "Curriculum & Syllabi \u2014 BSBA; Business Cluster Pool (BSA/BSAIS/BSBA/BSHM)  [FT, 24 units, 6 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "8 items: #19\u201320, 25\u201326, 31\u201332, 43\u201344"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "CRIMINAL JUSTICE EDUCATION \u2014 Curriculum & Syllabi Committee for BSCRIM (chaired by Chair Pisto)  (5 full-time faculty tasked; 1 part-time not tasked)",
+      "role": "",
+      "items_owned": "",
+      "items_supporting": ""
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Arimbuyutan, Jazzele M.",
+      "role": "Curriculum & Syllabi \u2014 BSCRIM; Feasibility & Market Study  [FT, 21 units, 4 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "5 items: #4\u20136, 49\u201350"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Dela Cruz, Jhon Allen R.",
+      "role": "Curriculum & Syllabi \u2014 BSCRIM  [FT, 22 units, 5 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "2 items: #49\u201350"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Diaz, Pamela B.",
+      "role": "Curriculum & Syllabi \u2014 BSCRIM  [FT, 22 units, 5 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "2 items: #49\u201350"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Pamiloza, Honey Mica R.",
+      "role": "Curriculum & Syllabi \u2014 BSCRIM  [FT, 21 units, 4 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "2 items: #49\u201350"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Ramos, Leandro M.",
+      "role": "Curriculum & Syllabi \u2014 BSCRIM; Library Collection  [FT, 18 units, 4 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "4 items: #49\u201350, 66\u201367"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "COMPUTER SCIENCE \u2014 Curriculum & Syllabi Committee for BSCS (chaired by Chair Diamat)  (1 full-time faculty tasked; 5 part-time not tasked)",
+      "role": "",
+      "items_owned": "",
+      "items_supporting": ""
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Cristobal, Teofilo G.",
+      "role": "Curriculum & Syllabi \u2014 BSCS  [FT, 24 units, 3 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "2 items: #37\u201338"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "HOSPITALITY MANAGEMENT \u2014 Curriculum & Syllabi Committee for BSHM (chaired by Chair Ciasico)  (3 full-time faculty tasked; 5 part-time not tasked)",
+      "role": "",
+      "items_owned": "",
+      "items_supporting": ""
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Bernardo, Romeo DG",
+      "role": "Curriculum & Syllabi \u2014 BSHM; Library Collection  [FT, 21 units, 4 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "6 items: #43\u201344, 66\u201369"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Dela Cruz, Jonathan",
+      "role": "Curriculum & Syllabi \u2014 BSHM; Feasibility & Market Study  [FT, 18 units, 4 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "5 items: #4\u20136, 43\u201344"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Geronimo, Jing Feng A., LPT",
+      "role": "Curriculum & Syllabi \u2014 BSHM  [FT, 24 units, 4 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "2 items: #43\u201344"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "TEACHER EDUCATION \u2014 Curriculum & Syllabi Committee for BEED and BSED (chaired by Chair K. Garcia)  (14 full-time faculty tasked; 4 part-time not tasked)",
+      "role": "",
+      "items_owned": "",
+      "items_supporting": ""
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Ablaya, Stephanie",
+      "role": "Curriculum & Syllabi \u2014 BEED/BSED; Feasibility & Market Study  [FT, 27 units, 6 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "7 items: #4\u20136, 55\u201356, 61\u201362"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Aquino, Agnes M., Dr.",
+      "role": "Curriculum & Syllabi \u2014 BEED/BSED; General Education Syllabi Pool (college-wide)  [FT, 24 units, 7 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "16 items: #19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Cajucom, Ryan Neil",
+      "role": "Curriculum & Syllabi \u2014 BEED/BSED  [FT, 27 units, 6 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "4 items: #55\u201356, 61\u201362"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Calma, Shiela Mae C.",
+      "role": "Curriculum & Syllabi \u2014 BEED/BSED; General Education Syllabi Pool (college-wide)  [FT, 24 units, 4 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "16 items: #19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Delos Reyes, Diana Maris",
+      "role": "Curriculum & Syllabi \u2014 BEED/BSED  [FT, 27 units, 7 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "4 items: #55\u201356, 61\u201362"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Germino, Melanie",
+      "role": "Curriculum & Syllabi \u2014 BEED/BSED  [FT, 27 units, 7 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "4 items: #55\u201356, 61\u201362"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Ilag, Ferdinand T.",
+      "role": "Curriculum & Syllabi \u2014 BEED/BSED; General Education Syllabi Pool (college-wide)  [FT, 21 units, 3 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "16 items: #19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Jamlang, Jamie A.",
+      "role": "Curriculum & Syllabi \u2014 BEED/BSED; General Education Syllabi Pool (college-wide)  [FT, 27 units, 5 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "16 items: #19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Maglalang, Danica",
+      "role": "Curriculum & Syllabi \u2014 BEED/BSED; General Education Syllabi Pool (college-wide)  [FT, 24 units, 3 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "16 items: #19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Manuel, Consuelo V., Dr.",
+      "role": "Curriculum & Syllabi \u2014 BEED/BSED; General Education Syllabi Pool (college-wide)  [FT, 24 units, 4 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "16 items: #19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Mequiabas, Meah",
+      "role": "Curriculum & Syllabi \u2014 BEED/BSED; General Education Syllabi Pool (college-wide)  [FT, 26 units, 4 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "16 items: #19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Sta. Cruz, Ma. Patricia",
+      "role": "Curriculum & Syllabi \u2014 BEED/BSED; Library Collection  [FT, 27 units, 3 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "8 items: #55\u201356, 61\u201362, 66\u201369"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Tolosa, Nenita",
+      "role": "Curriculum & Syllabi \u2014 BEED/BSED; General Education Syllabi Pool (college-wide)  [FT, 24 units, 5 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "16 items: #19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362"
+    },
+    {
+      "category": "LEADS, OFFICES AND PROGRAM CHAIRS",
+      "person": "Villamayor, Xyrelle",
+      "role": "Curriculum & Syllabi \u2014 BEED/BSED  [FT, 27 units, 6 preps this semester]",
+      "items_owned": "None \u2014 support role only",
+      "items_supporting": "4 items: #55\u201356, 61\u201362"
+    },
+    {
+      "category": "PART-TIME FACULTY \u2014 NOT TASKED",
+      "person": "21 part-time faculty",
+      "role": "Listed on the Faculty sheet because checklist item 5.1 requires every faculty member teaching general education and major courses. They carry no project tasks and sit on no committee.  Aberin, Gabriel Angelo, Adiova, Marites, Alarcon, Leuz Rafael, Cabrera, Francis, Carasco, Ryan Jay, Corpuz, Alpha Jessa, Cruz, Rommel, Empay, Jan Rhommer, Fernando, Eddyson S., Francisco, Jayson R., Francisco, Josephine Rose, Garcia, Michael Johnrein, Gomez, Donna Michelle A., Magdaong, Jennifer, Mariano, Jerick, Patiag, Glaiza Kaye, Patiag, Mark, Peralta, Ronel Evan P., Santiago, Decirae Nicole, Santos, John Vincent L., Timpac, Theodore M.",
+      "items_owned": "\u2014",
+      "items_supporting": "\u2014"
+    },
+    {
+      "category": "PART-TIME FACULTY \u2014 NOT TASKED",
+      "person": "Check",
+      "role": "",
+      "items_owned": "",
+      "items_supporting": ""
+    }
+  ],
+  "faculty": [
+    {
+      "id": "1",
+      "name": "Cruel, Ken Gie Anthony",
+      "credential": "CPA",
+      "department": "BSA & BSAIS (Accountancy / AIS)",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BSA/BSAIS",
+      "items_supporting": "#19\u201320, 25\u201326"
+    },
+    {
+      "id": "2",
+      "name": "Carasco, Ryan Jay",
+      "credential": "CPA",
+      "department": "BSA & BSAIS (Accountancy / AIS)",
+      "ft_pt": "PT",
+      "committee": "Not tasked \u2014 part-time",
+      "items_supporting": "\u2014"
+    },
+    {
+      "id": "3",
+      "name": "Cruz, Rommel",
+      "credential": "CPA",
+      "department": "BSA & BSAIS (Accountancy / AIS)",
+      "ft_pt": "PT",
+      "committee": "Not tasked \u2014 part-time",
+      "items_supporting": "\u2014"
+    },
+    {
+      "id": "4",
+      "name": "Empay, Jan Rhommer",
+      "credential": "CPA",
+      "department": "BSA & BSAIS (Accountancy / AIS)",
+      "ft_pt": "PT",
+      "committee": "Not tasked \u2014 part-time",
+      "items_supporting": "\u2014"
+    },
+    {
+      "id": "5",
+      "name": "Francisco, Josephine Rose",
+      "credential": "CPA",
+      "department": "BSA & BSAIS (Accountancy / AIS)",
+      "ft_pt": "PT",
+      "committee": "Not tasked \u2014 part-time",
+      "items_supporting": "\u2014"
+    },
+    {
+      "id": "6",
+      "name": "Santiago, Decirae Nicole",
+      "credential": "CPA",
+      "department": "BSA & BSAIS (Accountancy / AIS)",
+      "ft_pt": "PT",
+      "committee": "Not tasked \u2014 part-time",
+      "items_supporting": "\u2014"
+    },
+    {
+      "id": "7",
+      "name": "Aquino, Ann Jellie B.",
+      "credential": "",
+      "department": "BSBA (Business Administration)",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BSBA; Business Cluster Pool (BSA/BSAIS/BSBA/BSHM); Feasibility & Market Study",
+      "items_supporting": "#4\u20136, 19\u201320, 25\u201326, 31\u201332, 43\u201344"
+    },
+    {
+      "id": "8",
+      "name": "Bauat, Jhosalyn",
+      "credential": "",
+      "department": "BSBA (Business Administration)",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BSBA; Business Cluster Pool (BSA/BSAIS/BSBA/BSHM)",
+      "items_supporting": "#19\u201320, 25\u201326, 31\u201332, 43\u201344"
+    },
+    {
+      "id": "9",
+      "name": "Castillo, Ranilo S.",
+      "credential": "",
+      "department": "BSBA (Business Administration)",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BSBA",
+      "items_supporting": "#31\u201332"
+    },
+    {
+      "id": "10",
+      "name": "Dela Cruz, Jacqueline",
+      "credential": "",
+      "department": "BSBA (Business Administration)",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BSBA; Business Cluster Pool (BSA/BSAIS/BSBA/BSHM); Library Collection",
+      "items_supporting": "#19\u201320, 25\u201326, 31\u201332, 43\u201344, 66\u201367"
+    },
+    {
+      "id": "11",
+      "name": "Salas, Kristine Joy",
+      "credential": "",
+      "department": "BSBA (Business Administration)",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BSBA; Business Cluster Pool (BSA/BSAIS/BSBA/BSHM)",
+      "items_supporting": "#19\u201320, 25\u201326, 31\u201332, 43\u201344"
+    },
+    {
+      "id": "12",
+      "name": "Patiag, Glaiza Kaye",
+      "credential": "JD",
+      "department": "BSBA (Business Administration) & BS Hospitality Management",
+      "ft_pt": "PT",
+      "committee": "Not tasked \u2014 part-time",
+      "items_supporting": "\u2014"
+    },
+    {
+      "id": "13",
+      "name": "Arimbuyutan, Jazzele M.",
+      "credential": "",
+      "department": "BS Criminology",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BSCRIM; Feasibility & Market Study",
+      "items_supporting": "#4\u20136, 49\u201350"
+    },
+    {
+      "id": "14",
+      "name": "Dela Cruz, Jhon Allen R.",
+      "credential": "",
+      "department": "BS Criminology",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BSCRIM",
+      "items_supporting": "#49\u201350"
+    },
+    {
+      "id": "15",
+      "name": "Diaz, Pamela B.",
+      "credential": "",
+      "department": "BS Criminology",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BSCRIM",
+      "items_supporting": "#49\u201350"
+    },
+    {
+      "id": "16",
+      "name": "Pamiloza, Honey Mica R.",
+      "credential": "",
+      "department": "BS Criminology",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BSCRIM",
+      "items_supporting": "#49\u201350"
+    },
+    {
+      "id": "17",
+      "name": "Pisto, Samantha Rose C.",
+      "credential": "",
+      "department": "BS Criminology",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BSCRIM",
+      "items_supporting": "#49\u201350"
+    },
+    {
+      "id": "18",
+      "name": "Ramos, Leandro M.",
+      "credential": "",
+      "department": "BS Criminology",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BSCRIM; Library Collection",
+      "items_supporting": "#49\u201350, 66\u201367"
+    },
+    {
+      "id": "19",
+      "name": "Timpac, Theodore M.",
+      "credential": "Atty.",
+      "department": "BS Criminology",
+      "ft_pt": "PT",
+      "committee": "Not tasked \u2014 part-time",
+      "items_supporting": "\u2014"
+    },
+    {
+      "id": "20",
+      "name": "Cristobal, Teofilo G.",
+      "credential": "",
+      "department": "BS Computer Science",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BSCS",
+      "items_supporting": "#37\u201338"
+    },
+    {
+      "id": "21",
+      "name": "Diamat, John Philip N.",
+      "credential": "",
+      "department": "BS Computer Science",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BSCS",
+      "items_supporting": "#37\u201338"
+    },
+    {
+      "id": "22",
+      "name": "Corpuz, Alpha Jessa",
+      "credential": "",
+      "department": "BS Computer Science",
+      "ft_pt": "PT",
+      "committee": "Not tasked \u2014 part-time",
+      "items_supporting": "\u2014"
+    },
+    {
+      "id": "23",
+      "name": "Fernando, Eddyson S.",
+      "credential": "",
+      "department": "BS Computer Science",
+      "ft_pt": "PT",
+      "committee": "Not tasked \u2014 part-time",
+      "items_supporting": "\u2014"
+    },
+    {
+      "id": "24",
+      "name": "Francisco, Jayson R.",
+      "credential": "",
+      "department": "BS Computer Science",
+      "ft_pt": "PT",
+      "committee": "Not tasked \u2014 part-time",
+      "items_supporting": "\u2014"
+    },
+    {
+      "id": "25",
+      "name": "Garcia, Michael Johnrein",
+      "credential": "",
+      "department": "BS Computer Science",
+      "ft_pt": "PT",
+      "committee": "Not tasked \u2014 part-time",
+      "items_supporting": "\u2014"
+    },
+    {
+      "id": "26",
+      "name": "Peralta, Ronel Evan P.",
+      "credential": "",
+      "department": "BS Computer Science",
+      "ft_pt": "PT",
+      "committee": "Not tasked \u2014 part-time",
+      "items_supporting": "\u2014"
+    },
+    {
+      "id": "27",
+      "name": "Bernardo, Romeo DG",
+      "credential": "",
+      "department": "BS Hospitality Management",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BSHM; Library Collection",
+      "items_supporting": "#43\u201344, 66\u201369"
+    },
+    {
+      "id": "28",
+      "name": "Ciasico, Stephanie S.",
+      "credential": "",
+      "department": "BS Hospitality Management",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BSHM",
+      "items_supporting": "#43\u201344"
+    },
+    {
+      "id": "29",
+      "name": "Dela Cruz, Jonathan",
+      "credential": "",
+      "department": "BS Hospitality Management",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BSHM; Feasibility & Market Study",
+      "items_supporting": "#4\u20136, 43\u201344"
+    },
+    {
+      "id": "30",
+      "name": "Geronimo, Jing Feng A.",
+      "credential": "LPT",
+      "department": "BS Hospitality Management",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BSHM",
+      "items_supporting": "#43\u201344"
+    },
+    {
+      "id": "31",
+      "name": "Aberin, Gabriel Angelo",
+      "credential": "",
+      "department": "BS Hospitality Management",
+      "ft_pt": "PT",
+      "committee": "Not tasked \u2014 part-time",
+      "items_supporting": "\u2014"
+    },
+    {
+      "id": "32",
+      "name": "Alarcon, Leuz Rafael",
+      "credential": "",
+      "department": "BS Hospitality Management",
+      "ft_pt": "PT",
+      "committee": "Not tasked \u2014 part-time",
+      "items_supporting": "\u2014"
+    },
+    {
+      "id": "33",
+      "name": "Mariano, Jerick",
+      "credential": "",
+      "department": "BS Hospitality Management",
+      "ft_pt": "PT",
+      "committee": "Not tasked \u2014 part-time",
+      "items_supporting": "\u2014"
+    },
+    {
+      "id": "34",
+      "name": "Patiag, Mark",
+      "credential": "Atty.",
+      "department": "BS Hospitality Management",
+      "ft_pt": "PT",
+      "committee": "Not tasked \u2014 part-time",
+      "items_supporting": "\u2014"
+    },
+    {
+      "id": "35",
+      "name": "Santos, John Vincent L.",
+      "credential": "Engr.",
+      "department": "BS Hospitality Management",
+      "ft_pt": "PT",
+      "committee": "Not tasked \u2014 part-time",
+      "items_supporting": "\u2014"
+    },
+    {
+      "id": "36",
+      "name": "Ablaya, Stephanie",
+      "credential": "",
+      "department": "Teacher Education (BEED / BSEDE / BSEDM / TEP)",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BEED/BSED; Feasibility & Market Study",
+      "items_supporting": "#4\u20136, 55\u201356, 61\u201362"
+    },
+    {
+      "id": "37",
+      "name": "Aquino, Agnes M.",
+      "credential": "Dr.",
+      "department": "Teacher Education (BEED / BSEDE / BSEDM / TEP)",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BEED/BSED; General Education Syllabi Pool (college-wide)",
+      "items_supporting": "#19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362"
+    },
+    {
+      "id": "38",
+      "name": "Cajucom, Ryan Neil",
+      "credential": "",
+      "department": "Teacher Education (BEED / BSEDE / BSEDM / TEP)",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BEED/BSED",
+      "items_supporting": "#55\u201356, 61\u201362"
+    },
+    {
+      "id": "39",
+      "name": "Calma, Shiela Mae C.",
+      "credential": "",
+      "department": "Teacher Education (BEED / BSEDE / BSEDM / TEP)",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BEED/BSED; General Education Syllabi Pool (college-wide)",
+      "items_supporting": "#19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362"
+    },
+    {
+      "id": "40",
+      "name": "Delos Reyes, Diana Maris",
+      "credential": "",
+      "department": "Teacher Education (BEED / BSEDE / BSEDM / TEP)",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BEED/BSED",
+      "items_supporting": "#55\u201356, 61\u201362"
+    },
+    {
+      "id": "41",
+      "name": "Garcia, Almario B.",
+      "credential": "Dr.",
+      "department": "Teacher Education (BEED / BSEDE / BSEDM / TEP)",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BEED/BSED",
+      "items_supporting": "#55\u201356, 61\u201362"
+    },
+    {
+      "id": "42",
+      "name": "Garcia, Kent E.",
+      "credential": "",
+      "department": "Teacher Education (BEED / BSEDE / BSEDM / TEP)",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BEED/BSED",
+      "items_supporting": "#55\u201356, 61\u201362"
+    },
+    {
+      "id": "43",
+      "name": "Germino, Melanie",
+      "credential": "",
+      "department": "Teacher Education (BEED / BSEDE / BSEDM / TEP)",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BEED/BSED",
+      "items_supporting": "#55\u201356, 61\u201362"
+    },
+    {
+      "id": "44",
+      "name": "Ilag, Ferdinand T.",
+      "credential": "",
+      "department": "Teacher Education (BEED / BSEDE / BSEDM / TEP)",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BEED/BSED; General Education Syllabi Pool (college-wide)",
+      "items_supporting": "#19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362"
+    },
+    {
+      "id": "45",
+      "name": "Jamlang, Jamie A.",
+      "credential": "",
+      "department": "Teacher Education (BEED / BSEDE / BSEDM / TEP)",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BEED/BSED; General Education Syllabi Pool (college-wide)",
+      "items_supporting": "#19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362"
+    },
+    {
+      "id": "46",
+      "name": "Maglalang, Danica",
+      "credential": "",
+      "department": "Teacher Education (BEED / BSEDE / BSEDM / TEP)",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BEED/BSED; General Education Syllabi Pool (college-wide)",
+      "items_supporting": "#19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362"
+    },
+    {
+      "id": "47",
+      "name": "Manuel, Consuelo V.",
+      "credential": "Dr.",
+      "department": "Teacher Education (BEED / BSEDE / BSEDM / TEP)",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BEED/BSED; General Education Syllabi Pool (college-wide)",
+      "items_supporting": "#19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362"
+    },
+    {
+      "id": "48",
+      "name": "Mequiabas, Meah",
+      "credential": "",
+      "department": "Teacher Education (BEED / BSEDE / BSEDM / TEP)",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BEED/BSED; General Education Syllabi Pool (college-wide)",
+      "items_supporting": "#19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362"
+    },
+    {
+      "id": "49",
+      "name": "Sta. Cruz, Ma. Patricia",
+      "credential": "",
+      "department": "Teacher Education (BEED / BSEDE / BSEDM / TEP)",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BEED/BSED; Library Collection",
+      "items_supporting": "#55\u201356, 61\u201362, 66\u201369"
+    },
+    {
+      "id": "50",
+      "name": "Tolosa, Nenita",
+      "credential": "",
+      "department": "Teacher Education (BEED / BSEDE / BSEDM / TEP)",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BEED/BSED; General Education Syllabi Pool (college-wide)",
+      "items_supporting": "#19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362"
+    },
+    {
+      "id": "51",
+      "name": "Villamayor, Xyrelle",
+      "credential": "",
+      "department": "Teacher Education (BEED / BSEDE / BSEDM / TEP)",
+      "ft_pt": "FT",
+      "committee": "Curriculum & Syllabi \u2014 BEED/BSED",
+      "items_supporting": "#55\u201356, 61\u201362"
+    },
+    {
+      "id": "52",
+      "name": "Adiova, Marites",
+      "credential": "",
+      "department": "Teacher Education (BEED / BSEDE / BSEDM / TEP)",
+      "ft_pt": "PT",
+      "committee": "Not tasked \u2014 part-time",
+      "items_supporting": "\u2014"
+    },
+    {
+      "id": "53",
+      "name": "Cabrera, Francis",
+      "credential": "",
+      "department": "Teacher Education (BEED / BSEDE / BSEDM / TEP)",
+      "ft_pt": "PT",
+      "committee": "Not tasked \u2014 part-time",
+      "items_supporting": "\u2014"
+    },
+    {
+      "id": "54",
+      "name": "Gomez, Donna Michelle A.",
+      "credential": "",
+      "department": "Teacher Education (BEED / BSEDE / BSEDM / TEP)",
+      "ft_pt": "PT",
+      "committee": "Not tasked \u2014 part-time",
+      "items_supporting": "\u2014"
+    },
+    {
+      "id": "55",
+      "name": "Magdaong, Jennifer",
+      "credential": "",
+      "department": "Teacher Education (BEED / BSEDE / BSEDM / TEP)",
+      "ft_pt": "PT",
+      "committee": "Not tasked \u2014 part-time",
+      "items_supporting": "\u2014"
+    }
+  ],
+  "outputs": [
+    {
+      "date": "2026-08-27",
+      "output": "Minutes of the Special Meeting of the Council of Program Chairs, including the drafting of Resolutions 2026-08-01 (endorsement of the 3-year trimester transition for all 8 programs), 2026-08-02 (student cohorts and institutional teach-out policy) and 2026-08-03 (mobilisation of the CHED Application Task Force)",
+      "capacity": "Task Force Co-Lead",
+      "items_served": "Item 1",
+      "status": "For review",
+      "location": "MEETINGS OF MEETING 08.27.26.docx \u2014 circulated for signing"
+    },
+    {
+      "date": "2026-08-28",
+      "output": "Transmittal letter to CHED for the proposed 3-Year Trimester System",
+      "capacity": "Task Force Co-Lead",
+      "items_served": "Item 1",
+      "status": "Done",
+      "location": "Office of the Vice Dean"
+    },
+    {
+      "date": "2026-08-28",
+      "output": "Four-phase project implementation plan with hard deadlines of 12 Sep, 16 Oct, 30 Oct and 13 Nov 2026, setting out direct execution and delegation for every office",
+      "capacity": "Task Force Co-Lead",
+      "items_served": "Items 1\u201372",
+      "status": "Done",
+      "location": "CHED 3-Year Trimester Application.xlsx"
+    },
+    {
+      "date": "2026-08-31",
+      "output": "Draft 9-trimester prospectus for BSA \u2014 191 total units across 9 terms (Year 1: 67, Year 2: 67, Year 3: 57)",
+      "capacity": "Program Chair, BSA",
+      "items_served": "Items 15, 16, 17",
+      "status": "In progress",
+      "location": "Sample Curriculum.xlsx, sheet \u201cBSA\u201d \u2014 draft, not final"
+    },
+    {
+      "date": "2026-08-31",
+      "output": "Draft 9-trimester prospectus for BSAIS \u2014 185 total units across 9 terms (Year 1: 67, Year 2: 67, Year 3: 51)",
+      "capacity": "Program Chair, BSAIS",
+      "items_served": "Items 21, 22, 23",
+      "status": "In progress",
+      "location": "Sample Curriculum.xlsx, sheet \u201cBSAIS\u201d \u2014 draft, not final"
+    },
+    {
+      "date": "2026-08-31",
+      "output": "Proposed HCC academic calendar for AY 2027-2028 \u2014 three terms of 15 academic weeks each, with Christmas and Holy Week breaks absorbed, enrolment and grade-processing windows, and graduation set for 10 June 2028",
+      "capacity": "Task Force Co-Lead",
+      "items_served": "Items 18, 24",
+      "status": "In progress",
+      "location": "Sample Curriculum.xlsx, sheet \u201cSchool Calendar\u201d"
+    },
+    {
+      "date": "2026-08-31",
+      "output": "Contact-hour basis for the trimestral schedule under CMO 27 and CMO 30, series of 2017 \u2014 14 contact hours per unit, 42 hours per 3-unit course, 2.8 hours per week over 15 weeks",
+      "capacity": "Program Chair, BSA & BSAIS",
+      "items_served": "Items 18, 24",
+      "status": "In progress",
+      "location": "Sample Curriculum.xlsx, sheet \u201cSample Schedule\u201d \u2014 weekly grid still to be built"
+    }
+  ]
+}

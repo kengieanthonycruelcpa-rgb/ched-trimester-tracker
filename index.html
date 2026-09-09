@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CHED 3-Year Trimester Application Portal</title>
+  <style>
+    :root { --primary: #003366; --accent: #007bc7; --bg: #f4f6f9; --card: #ffffff; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; margin: 0; background: var(--bg); color: #333; }
+    header { background: var(--primary); color: white; padding: 1.5rem 2rem; }
+    header h1 { margin: 0; font-size: 1.5rem; }
+    header p { margin: 0.25rem 0 0 0; opacity: 0.85; font-size: 0.9rem; }
+    
+    .metrics-bar { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1rem; padding: 1.5rem 2rem; }
+    .metric-card { background: var(--card); padding: 1rem 1.25rem; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+    .metric-card .val { font-size: 1.6rem; font-weight: bold; color: var(--primary); }
+    .metric-card .lbl { font-size: 0.8rem; color: #666; text-transform: uppercase; margin-top: 0.2rem; }
+
+    .nav-tabs { display: flex; gap: 0.5rem; padding: 0 2rem; border-bottom: 2px solid #ddd; background: #fff; }
+    .tab-btn { padding: 0.75rem 1.25rem; border: none; background: none; font-weight: 600; color: #666; cursor: pointer; border-bottom: 3px solid transparent; }
+    .tab-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
+
+    .content-area { padding: 1.5rem 2rem; }
+    .controls { display: flex; gap: 1rem; margin-bottom: 1rem; flex-wrap: wrap; }
+    .controls input, .controls select { padding: 0.6rem 0.8rem; border: 1px solid #ccc; border-radius: 6px; font-size: 0.9rem; }
+    .controls input { flex-grow: 1; min-width: 200px; }
+
+    table { width: 100%; border-collapse: collapse; background: var(--card); border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
+    th, td { padding: 0.75rem 1rem; text-align: left; border-bottom: 1px solid #eee; font-size: 0.88rem; vertical-align: top; }
+    th { background: #eef2f7; font-weight: 600; color: var(--primary); }
+    tr:hover { background: #f8fafc; }
+
+    .badge { display: inline-block; padding: 0.25rem 0.5rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; }
+    .bg-done { background: #d1fae5; color: #065f46; }
+    .bg-progress { background: #fef3c7; color: #92400e; }
+    .bg-notstarted { background: #f3f4f6; color: #374151; }
+
+    .p-bar { background: #e5e7eb; border-radius: 10px; height: 8px; width: 80px; display: inline-block; overflow: hidden; vertical-align: middle; }
+    .p-fill { background: var(--accent); height: 100%; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Holy Cross College — CHED 3-Year Trimester Application</h1>
+    <p>Target Filing Date: 13 November 2026 | Live Progress Monitor</p>
+  </header>
+
+  <div class="metrics-bar">
+    <div class="metric-card"><div class="val" id="m-total">0</div><div class="lbl">Total Checklist Items</div></div>
+    <div class="metric-card"><div class="val" id="m-done">0</div><div class="lbl">Completed Items</div></div>
+    <div class="metric-card"><div class="val" id="m-progress">0</div><div class="lbl">In Progress</div></div>
+    <div class="metric-card"><div class="val" id="m-pct">0%</div><div class="lbl">Overall Progress</div></div>
+  </div>
+
+  <div class="nav-tabs">
+    <button class="tab-btn active" onclick="switchTab('tracker')">Progress Tracker</button>
+    <button class="tab-btn" onclick="switchTab('assignments')">Assignment Matrix</button>
+    <button class="tab-btn" onclick="switchTab('faculty')">Faculty Roster</button>
+    <button class="tab-btn" onclick="switchTab('outputs')">Deliverables Log</button>
+  </div>
+
+  <div class="content-area">
+    <div class="controls">
+      <input type="text" id="searchInput" placeholder="Search requirement, owner, or keyword..." oninput="renderCurrentTab()">
+      <select id="statusFilter" onchange="renderCurrentTab()">
+        <option value="ALL">All Statuses</option>
+        <option value="Done">Done</option>
+        <option value="In progress">In progress</option>
+        <option value="Not started">Not started</option>
+      </select>
+    </div>
+
+    <div id="tableContainer">Loading data...</div>
+  </div>
+
+  <script>
+    let globalData = null;
+    let currentTab = 'tracker';
+
+    async function fetchData() {
+      try {
+        const res = await fetch(`data.json?t=${Date.now()}`);
+        globalData = await res.json();
+        updateMetrics();
+        renderCurrentTab();
+      } catch (e) {
+        document.getElementById('tableContainer').innerText = 'Error loading application data.';
+      }
+    }
+
+    function updateMetrics() {
+      if (!globalData || !globalData.tracker) return;
+      const t = globalData.tracker;
+      const total = t.length;
+      const done = t.filter(i => i.status.toLowerCase() === 'done').length;
+      const inProg = t.filter(i => i.status.toLowerCase() === 'in progress').length;
+      const avgPct = Math.round(t.reduce((acc, i) => acc + (i.progress || 0), 0) / (total || 1));
+
+      document.getElementById('m-total').innerText = total;
+      document.getElementById('m-done').innerText = done;
+      document.getElementById('m-progress').innerText = inProg;
+      document.getElementById('m-pct').innerText = `${avgPct}%`;
+    }
+
+    function switchTab(tabName) {
+      currentTab = tabName;
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      event.target.classList.add('active');
+      renderCurrentTab();
+    }
+
+    function renderCurrentTab() {
+      if (!globalData) return;
+      const query = document.getElementById('searchInput').value.toLowerCase();
+      const status = document.getElementById('statusFilter').value;
+      const container = document.getElementById('tableContainer');
+
+      if (currentTab === 'tracker') {
+        let items = globalData.tracker.filter(i => {
+          const matchQ = i.requirement.toLowerCase().includes(query) || i.owner.toLowerCase().includes(query) || i.notes.toLowerCase().includes(query);
+          const matchS = status === 'ALL' || i.status === status;
+          return matchQ && matchS;
+        });
+
+        let html = `<table><thead><tr><th>#</th><th>Area</th><th>Requirement</th><th>Owner</th><th>Due Date</th><th>Status</th><th>Progress</th></tr></thead><tbody>`;
+        items.forEach(i => {
+          const badgeClass = i.status === 'Done' ? 'bg-done' : i.status === 'In progress' ? 'bg-progress' : 'bg-notstarted';
+          html += `<tr>
+            <td><strong>#${i.id}</strong></td>
+            <td style="font-size:0.75rem; color:#555;">${i.area.split('—')[0]}</td>
+            <td><strong>${i.requirement}</strong><br><small style="color:#666">${i.notes}</small></td>
+            <td>${i.owner}</td>
+            <td>${i.due_date}</td>
+            <td><span class="badge ${badgeClass}">${i.status}</span></td>
+            <td><div class="p-bar"><div class="p-fill" style="width:${i.progress}%"></div></div> ${i.progress}%</td>
+          </tr>`;
+        });
+        container.innerHTML = html + `</tbody></table>`;
+      } 
+      else if (currentTab === 'assignments') {
+        let items = globalData.assignments.filter(i => i.person.toLowerCase().includes(query) || i.role.toLowerCase().includes(query));
+        let html = `<table><thead><tr><th>Person / Office</th><th>Project Role</th><th>Items Owned</th><th>Items Supporting</th></tr></thead><tbody>`;
+        items.forEach(i => {
+          html += `<tr><td><strong>${i.person}</strong></td><td>${i.role}</td><td>${i.items_owned}</td><td>${i.items_supporting}</td></tr>`;
+        });
+        container.innerHTML = html + `</tbody></table>`;
+      }
+      else if (currentTab === 'faculty') {
+        let items = globalData.faculty.filter(i => i.name.toLowerCase().includes(query) || i.department.toLowerCase().includes(query));
+        let html = `<table><thead><tr><th>#</th><th>Faculty Member</th><th>Dept</th><th>Status</th><th>Committee Assignment</th><th>Supporting Items</th></tr></thead><tbody>`;
+        items.forEach(i => {
+          html += `<tr><td>${i.id}</td><td><strong>${i.name}</strong>, ${i.credential}</td><td>${i.department}</td><td>${i.ft_pt}</td><td>${i.committee}</td><td>${i.items_supporting}</td></tr>`;
+        });
+        container.innerHTML = html + `</tbody></table>`;
+      }
+      else if (currentTab === 'outputs') {
+        let items = globalData.outputs.filter(i => i.output.toLowerCase().includes(query));
+        let html = `<table><thead><tr><th>Date</th><th>Output Delivered</th><th>Capacity</th><th>Items Served</th><th>Status</th><th>Location</th></tr></thead><tbody>`;
+        items.forEach(i => {
+          html += `<tr><td>${i.date}</td><td><strong>${i.output}</strong></td><td>${i.capacity}</td><td>${i.items_served}</td><td>${i.status}</td><td>${i.location}</td></tr>`;
+        });
+        container.innerHTML = html + `</tbody></table>`;
+      }
+    }
+
+    fetchData();
+    setInterval(fetchData, 60000);
+  </script>
+</body>
+</html>
