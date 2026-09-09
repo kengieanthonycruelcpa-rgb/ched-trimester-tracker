@@ -11,19 +11,36 @@
     header h1 { margin: 0; font-size: 1.5rem; }
     header p { margin: 0.25rem 0 0 0; opacity: 0.85; font-size: 0.9rem; }
     
-    .metrics-bar { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1rem; padding: 1.5rem 2rem; }
-    .metric-card { background: var(--card); padding: 1rem 1.25rem; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+    .metrics-bar { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 1rem; padding: 1.5rem 2rem; }
+    .metric-card { background: var(--card); padding: 1rem 1.25rem; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); position: relative; }
     .metric-card .val { font-size: 1.6rem; font-weight: bold; color: var(--primary); }
-    .metric-card .lbl { font-size: 0.8rem; color: #666; text-transform: uppercase; margin-top: 0.2rem; }
+    .metric-card .lbl { font-size: 0.75rem; color: #666; text-transform: uppercase; margin-top: 0.2rem; font-weight: 600; }
 
     .nav-tabs { display: flex; gap: 0.5rem; padding: 0 2rem; border-bottom: 2px solid #ddd; background: #fff; }
     .tab-btn { padding: 0.75rem 1.25rem; border: none; background: none; font-weight: 600; color: #666; cursor: pointer; border-bottom: 3px solid transparent; }
     .tab-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
 
     .content-area { padding: 1.5rem 2rem; }
-    .controls { display: flex; gap: 1rem; margin-bottom: 1rem; flex-wrap: wrap; }
+    .controls { display: flex; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; align-items: center; }
     .controls input, .controls select { padding: 0.6rem 0.8rem; border: 1px solid #ccc; border-radius: 6px; font-size: 0.9rem; }
     .controls input { flex-grow: 1; min-width: 200px; }
+
+    .btn-review-filter {
+      background: #f3e8ff;
+      color: #6b21a8;
+      border: 1px solid #d8b4fe;
+      padding: 0.6rem 1rem;
+      border-radius: 6px;
+      font-weight: 700;
+      font-size: 0.88rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      transition: all 0.2s ease;
+    }
+    .btn-review-filter:hover { background: #e9d5ff; border-color: #c084fc; }
+    .btn-review-filter.active { background: #6b21a8; color: #ffffff; border-color: #581c87; }
 
     table { width: 100%; border-collapse: collapse; background: var(--card); border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
     th, td { padding: 0.75rem 1rem; text-align: left; border-bottom: 1px solid #eee; font-size: 0.88rem; vertical-align: top; }
@@ -49,8 +66,9 @@
 
   <div class="metrics-bar">
     <div class="metric-card"><div class="val" id="m-total">0</div><div class="lbl">Total Checklist Items</div></div>
-    <div class="metric-card"><div class="val" id="m-done">0</div><div class="lbl">Completed Items</div></div>
-    <div class="metric-card"><div class="val" id="m-progress">0</div><div class="lbl">In Progress / Review</div></div>
+    <div class="metric-card"><div class="val" id="m-done" style="color:#065f46">0</div><div class="lbl">Approved (Done)</div></div>
+    <div class="metric-card" style="border-left: 4px solid #6b21a8;"><div class="val" id="m-review" style="color:#6b21a8">0</div><div class="lbl">For Review (Done, Pending Check)</div></div>
+    <div class="metric-card"><div class="val" id="m-progress" style="color:#92400e">0</div><div class="lbl">In Progress</div></div>
     <div class="metric-card"><div class="val" id="m-pct">0%</div><div class="lbl">Filtered Progress</div></div>
   </div>
 
@@ -69,13 +87,18 @@
         <option value="ALL">All Program Chairs / Responsible Units</option>
       </select>
 
-      <select id="statusFilter" onchange="renderCurrentTab()">
+      <select id="statusFilter" onchange="handleStatusDropdownChange()">
         <option value="ALL">All Statuses</option>
         <option value="Done">Done</option>
         <option value="For review">For review</option>
         <option value="In progress">In progress</option>
         <option value="Not started">Not started</option>
       </select>
+
+      <!-- Dedicated Quick Button for Items Awaiting Audit -->
+      <button id="quickReviewBtn" class="btn-review-filter" onclick="toggleForReviewFilter()">
+        <span>🔍</span> Filter: For Review (<span id="quickReviewCount">0</span>)
+      </button>
     </div>
 
     <div id="tableContainer">Loading data...</div>
@@ -84,6 +107,7 @@
   <script>
     let globalData = null;
     let currentTab = 'tracker';
+    let isReviewFilterActive = false;
 
     async function fetchData() {
       try {
@@ -116,6 +140,34 @@
       ownerSelect.value = currentVal;
     }
 
+    function toggleForReviewFilter() {
+      isReviewFilterActive = !isReviewFilterActive;
+      const statusSelect = document.getElementById('statusFilter');
+      const quickBtn = document.getElementById('quickReviewBtn');
+
+      if (isReviewFilterActive) {
+        statusSelect.value = "For review";
+        quickBtn.classList.add('active');
+      } else {
+        statusSelect.value = "ALL";
+        quickBtn.classList.remove('active');
+      }
+      renderCurrentTab();
+    }
+
+    function handleStatusDropdownChange() {
+      const statusSelect = document.getElementById('statusFilter');
+      const quickBtn = document.getElementById('quickReviewBtn');
+      if (statusSelect.value === 'For review') {
+        isReviewFilterActive = true;
+        quickBtn.classList.add('active');
+      } else {
+        isReviewFilterActive = false;
+        quickBtn.classList.remove('active');
+      }
+      renderCurrentTab();
+    }
+
     function switchTab(tabName) {
       currentTab = tabName;
       document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
@@ -139,12 +191,15 @@
         });
 
         const total = items.length;
-        const done = items.filter(i => i.status.toLowerCase() === 'done').length;
-        const inProg = items.filter(i => i.status.toLowerCase() === 'in progress' || i.status.toLowerCase() === 'for review').length;
+        const done = items.filter(i => i.status.trim().toLowerCase() === 'done').length;
+        const forReview = items.filter(i => i.status.trim().toLowerCase() === 'for review').length;
+        const inProg = items.filter(i => i.status.trim().toLowerCase() === 'in progress').length;
         const avgPct = Math.round(items.reduce((acc, i) => acc + (i.progress || 0), 0) / (total || 1));
 
         document.getElementById('m-total').innerText = total;
         document.getElementById('m-done').innerText = done;
+        document.getElementById('m-review').innerText = forReview;
+        document.getElementById('quickReviewCount').innerText = forReview;
         document.getElementById('m-progress').innerText = inProg;
         document.getElementById('m-pct').innerText = `${avgPct}%`;
 
