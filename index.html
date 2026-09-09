@@ -30,11 +30,11 @@
     th { background: #eef2f7; font-weight: 600; color: var(--primary); }
     tr:hover { background: #f8fafc; }
 
-    .badge { display: inline-block; padding: 0.25rem 0.5rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; }
-    .bg-done { background: #d1fae5; color: #065f46; }
-    .bg-review { background: #dbeafe; color: #1e40af; }
-    .bg-progress { background: #fef3c7; color: #92400e; }
-    .bg-notstarted { background: #f3f4f6; color: #374151; }
+    .badge { display: inline-block; padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.75rem; font-weight: 700; }
+    .bg-done { background: #d1fae5; color: #065f46; border: 1px solid #a7f3d0; }
+    .bg-review { background: #f3e8ff; color: #6b21a8; border: 1px solid #d8b4fe; }
+    .bg-progress { background: #fef3c7; color: #92400e; border: 1px solid #fde68a; }
+    .bg-notstarted { background: #f3f4f6; color: #374151; border: 1px solid #e5e7eb; }
 
     .p-bar { background: #e5e7eb; border-radius: 10px; height: 8px; width: 80px; display: inline-block; overflow: hidden; vertical-align: middle; }
     .p-fill { background: var(--accent); height: 100%; }
@@ -133,7 +133,7 @@
       if (currentTab === 'tracker') {
         let items = globalData.tracker.filter(i => {
           const matchQ = i.requirement.toLowerCase().includes(query) || i.owner.toLowerCase().includes(query) || i.notes.toLowerCase().includes(query);
-          const matchS = status === 'ALL' || i.status.toLowerCase() === status.toLowerCase();
+          const matchS = status === 'ALL' || i.status.trim().toLowerCase() === status.trim().toLowerCase();
           const matchO = selectedOwner === 'ALL' || i.owner === selectedOwner;
           return matchQ && matchS && matchO;
         });
@@ -150,7 +150,7 @@
 
         let html = `<table><thead><tr><th>#</th><th>Area</th><th>Requirement</th><th>Owner / Lead</th><th>Due Date</th><th>Status</th><th>Progress</th></tr></thead><tbody>`;
         items.forEach(i => {
-          const st = i.status.toLowerCase();
+          const st = i.status.trim().toLowerCase();
           const badgeClass = st === 'done' ? 'bg-done' : st === 'for review' ? 'bg-review' : st === 'in progress' ? 'bg-progress' : 'bg-notstarted';
           html += `<tr>
             <td><strong>#${i.id}</strong></td>
