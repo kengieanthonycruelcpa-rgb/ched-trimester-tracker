@@ -32,6 +32,7 @@
 
     .badge { display: inline-block; padding: 0.25rem 0.5rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; }
     .bg-done { background: #d1fae5; color: #065f46; }
+    .bg-review { background: #dbeafe; color: #1e40af; }
     .bg-progress { background: #fef3c7; color: #92400e; }
     .bg-notstarted { background: #f3f4f6; color: #374151; }
 
@@ -49,7 +50,7 @@
   <div class="metrics-bar">
     <div class="metric-card"><div class="val" id="m-total">0</div><div class="lbl">Total Checklist Items</div></div>
     <div class="metric-card"><div class="val" id="m-done">0</div><div class="lbl">Completed Items</div></div>
-    <div class="metric-card"><div class="val" id="m-progress">0</div><div class="lbl">In Progress</div></div>
+    <div class="metric-card"><div class="val" id="m-progress">0</div><div class="lbl">In Progress / Review</div></div>
     <div class="metric-card"><div class="val" id="m-pct">0%</div><div class="lbl">Filtered Progress</div></div>
   </div>
 
@@ -71,6 +72,7 @@
       <select id="statusFilter" onchange="renderCurrentTab()">
         <option value="ALL">All Statuses</option>
         <option value="Done">Done</option>
+        <option value="For review">For review</option>
         <option value="In progress">In progress</option>
         <option value="Not started">Not started</option>
       </select>
@@ -131,14 +133,14 @@
       if (currentTab === 'tracker') {
         let items = globalData.tracker.filter(i => {
           const matchQ = i.requirement.toLowerCase().includes(query) || i.owner.toLowerCase().includes(query) || i.notes.toLowerCase().includes(query);
-          const matchS = status === 'ALL' || i.status === status;
+          const matchS = status === 'ALL' || i.status.toLowerCase() === status.toLowerCase();
           const matchO = selectedOwner === 'ALL' || i.owner === selectedOwner;
           return matchQ && matchS && matchO;
         });
 
         const total = items.length;
         const done = items.filter(i => i.status.toLowerCase() === 'done').length;
-        const inProg = items.filter(i => i.status.toLowerCase() === 'in progress').length;
+        const inProg = items.filter(i => i.status.toLowerCase() === 'in progress' || i.status.toLowerCase() === 'for review').length;
         const avgPct = Math.round(items.reduce((acc, i) => acc + (i.progress || 0), 0) / (total || 1));
 
         document.getElementById('m-total').innerText = total;
@@ -148,7 +150,8 @@
 
         let html = `<table><thead><tr><th>#</th><th>Area</th><th>Requirement</th><th>Owner / Lead</th><th>Due Date</th><th>Status</th><th>Progress</th></tr></thead><tbody>`;
         items.forEach(i => {
-          const badgeClass = i.status === 'Done' ? 'bg-done' : i.status === 'In progress' ? 'bg-progress' : 'bg-notstarted';
+          const st = i.status.toLowerCase();
+          const badgeClass = st === 'done' ? 'bg-done' : st === 'for review' ? 'bg-review' : st === 'in progress' ? 'bg-progress' : 'bg-notstarted';
           html += `<tr>
             <td><strong>#${i.id}</strong></td>
             <td style="font-size:0.75rem; color:#555;">${i.area.split('—')[0]}</td>
