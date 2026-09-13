@@ -738,7 +738,7 @@
       "due_date": "2026-09-25",
       "status": "Not started",
       "progress": 0,
-      "notes": "POOL LEAD NAMED 9 Sep 2026: Chair Kent E. Garcia convenes the General Education Syllabi Pool. The pool writes the 20 shared GE, PATH-FIT, NSTP and CLE courses ONCE for all 8 programmes, so its output feeds items 19-20, 25-26, 31-32, 37-38, 43-44, 49-50, 55-56 and 61-62 \u2014 sixteen rows owned by five different Chairs. THE LEAD'S SPECIFIC TASKS: (1) publish the allocation \u2014 which of the 8 writers takes which of the 20 courses; (2) issue one common syllabus template carrying the assessment scheme (midterm, final, one monthly assessment, plus quizzes) and the 14-week / 56-hour basis; (3) set internal hand-in dates ahead of the 9 Oct descriptions and 16 Oct syllabi; (4) collect the finished set and hand ONE copy to all 8 Programme Chairs; (5) report slippage to the Vice Dean weekly. BLOCKED BY OPEN ITEM 7: the GE course codes do not match across programmes \u2014 only about 13 of the 20 match cleanly \u2014 and the pool cannot write once-for-all until they are harmonised. Resolve that first or the allocation will be wrong. The Chair convenes and reports; each Programme Chair still answers for their own 7.3 and 7.4 rows."
+      "notes": "POOL LEAD: Chair Kent E. Garcia (named 9 Sep 2026). ALLOCATION REVISED 13 Sep 2026 by direction of the Vice Dean \u2014 all 20 courses are assigned by name across SEVEN writers (Aquino, Agnes M. was moved out of the pool on the same date to write BEED/BSED major courses under item 79 instead). Ilag: REL-GEC, CLE 1, STS-GEC. Maglalang: CLE 2, HIS-GEC, RIZ-GEC. Calma: PATH-FIT 1, PATH-FIT 2, NSTP 1. Mequiabas: PATH-FIT 3, PATH-FIT 4, NSTP 2. Manuel: ETH-GEC, MAT-GEC, BL-GEC. Tolosa: ART-GEC, COM-GEC, US-GEC. Jamlang: CON-GEC, ITE-GEC \u2014 two only, on the heaviest teaching load in the pool at 27 units over 5 preps. Each writer produces the description AND the syllabus per course. THE LEAD'S TASKS: issue one common syllabus template carrying the assessment scheme and the 14-week / 56-hour basis; set internal hand-in dates ahead of 9 Oct and 16 Oct; hand one finished set to all 8 Chairs; report slippage weekly to the Vice Dean. WATCH: NSTP 1 is the prerequisite of NSTP 2 and they now sit with different writers \u2014 Calma and Mequiabas must agree the two syllabi between them. STILL BLOCKED BY OPEN ITEM 7 \u2014 the GE course codes do not match across programmes, so the allocation is not final until they are harmonised. He convenes and reports; each Programme Chair still answers for their own 7.3 and 7.4 rows."
     },
     {
       "id": 75,
@@ -788,7 +788,7 @@
       "due_date": "2026-09-25",
       "status": "Not started",
       "progress": 0,
-      "notes": "The eight Teacher Education faculty in the General Education Syllabi Pool are writing 20 courses for the whole college under item 74 and are deliberately EXCLUDED from this allocation. That leaves six writers for the BEED and BSED major courses. Sta. Cruz also carries library items 66 to 69 on top of a 27-unit load \u2014 weight her share accordingly. Internal hand-in: descriptions 9 Oct 2026, syllabi 16 Oct 2026. Feeds items 55 and 56 (BEED) and 61 and 62 (BSED)."
+      "notes": "The seven Teacher Education faculty in the General Education Syllabi Pool are writing 20 courses for the whole college under item 74 and are deliberately EXCLUDED from this allocation. SEVEN writers remain for the BEED and BSED major courses \u2014 Aquino, Agnes M. was moved out of the GE pool on 13 Sep 2026 by direction of the Vice Dean and joins this group, on the heaviest prep count in the department at 7. Sta. Cruz also carries library items 66 to 69 on top of a 27-unit load \u2014 weight her share accordingly. Internal hand-in: descriptions 9 Oct 2026, syllabi 16 Oct 2026. Feeds items 55 and 56 (BEED) and 61 and 62 (BSED)."
     },
     {
       "id": 80,
@@ -1008,9 +1008,9 @@
     },
     {
       "person": "Aquino, Agnes M., Dr.",
-      "role": "General Education Syllabi Pool writer (item 74) \u2014 writes the course description AND the OBE syllabus for 2 courses: NSTP 1 Civic Welfare Training Service 1; NSTP 2 Civic Welfare Training Service 2. 4 documents, one set serving all 8 programmes. To Chair K. Garcia: descriptions 9 Oct, syllabi 16 Oct 2026. Also Curriculum & Syllabi \u2014 BEED/BSED (not allocated BEED/BSED major courses under item 79 while carrying this pool load).  [FT, 24 units, 7 preps this semester]",
+      "role": "Curriculum & Syllabi \u2014 BEED/BSED. Writes the course descriptions and OBE syllabi for the BEED and BSED major courses allocated to her under item 79, due 25 Sep 2026. Moved out of the General Education Syllabi Pool on 13 Sep 2026 so the major-course load is not carried on top of the college-wide general education work.  [FT, 24 units, 7 preps this semester]",
       "items_owned": "None \u2014 support role only",
-      "items_supporting": "17 items: #19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362, 74"
+      "items_supporting": "5 items: #55\u201356, 61\u201362, 79"
     },
     {
       "person": "Cajucom, Ryan Neil",
@@ -1020,7 +1020,7 @@
     },
     {
       "person": "Calma, Shiela Mae C.",
-      "role": "General Education Syllabi Pool writer (item 74) \u2014 writes the course description AND the OBE syllabus for 3 courses: US-GEC Understanding the Self; ART-GEC Art Appreciation; COM-GEC Purposive Communication. 6 documents, one set serving all 8 programmes. To Chair K. Garcia: descriptions 9 Oct, syllabi 16 Oct 2026. Also Curriculum & Syllabi \u2014 BEED/BSED (not allocated BEED/BSED major courses under item 79 while carrying this pool load).  [FT, 24 units, 4 preps this semester]",
+      "role": "General Education Syllabi Pool writer (item 74) \u2014 writes the course description AND the OBE syllabus for 3 courses, one set serving all 8 programmes: PATH-FIT 1 Movement Competency Training; PATH-FIT 2 Exercise-Based Fitness Activities; NSTP 1 Civic Welfare Training Service 1. 6 documents. To Chair K. Garcia: descriptions 9 Oct, syllabi 16 Oct 2026. Also Curriculum & Syllabi \u2014 BEED/BSED (not allocated BEED/BSED major courses under item 79 while carrying this pool load).  [FT, 24 units, 4 preps this semester]",
       "items_owned": "None \u2014 support role only",
       "items_supporting": "17 items: #19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362, 74"
     },
@@ -1038,31 +1038,31 @@
     },
     {
       "person": "Ilag, Ferdinand T.",
-      "role": "General Education Syllabi Pool writer (item 74) \u2014 writes the course description AND the OBE syllabus for 3 courses: MAT-GEC Mathematics in the Modern World; BL-GEC Business Logic; STS-GEC Science, Technology and Society. 6 documents, one set serving all 8 programmes. To Chair K. Garcia: descriptions 9 Oct, syllabi 16 Oct 2026. Also Curriculum & Syllabi \u2014 BEED/BSED (not allocated BEED/BSED major courses under item 79 while carrying this pool load).  [FT, 21 units, 3 preps this semester]",
+      "role": "General Education Syllabi Pool writer (item 74) \u2014 writes the course description AND the OBE syllabus for 3 courses, one set serving all 8 programmes: REL-GEC Religion, Religious Experience and Spirituality; CLE 1 Church and Salvation History; STS-GEC Science, Technology and Society. 6 documents. To Chair K. Garcia: descriptions 9 Oct, syllabi 16 Oct 2026. Also Curriculum & Syllabi \u2014 BEED/BSED (not allocated BEED/BSED major courses under item 79 while carrying this pool load).  [FT, 21 units, 3 preps this semester]",
       "items_owned": "None \u2014 support role only",
       "items_supporting": "17 items: #19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362, 74"
     },
     {
       "person": "Jamlang, Jamie A.",
-      "role": "General Education Syllabi Pool writer (item 74) \u2014 writes the course description AND the OBE syllabus for 2 courses: PATH-FIT 3 Dance; PATH-FIT 4 Sports. 4 documents, one set serving all 8 programmes. To Chair K. Garcia: descriptions 9 Oct, syllabi 16 Oct 2026. Also Curriculum & Syllabi \u2014 BEED/BSED (not allocated BEED/BSED major courses under item 79 while carrying this pool load).  [FT, 27 units, 5 preps this semester]",
+      "role": "General Education Syllabi Pool writer (item 74) \u2014 writes the course description AND the OBE syllabus for 2 courses, one set serving all 8 programmes: CON-GEC The Contemporary World; ITE-GEC Living in the I.T. Era. 4 documents. To Chair K. Garcia: descriptions 9 Oct, syllabi 16 Oct 2026. Also Curriculum & Syllabi \u2014 BEED/BSED (not allocated BEED/BSED major courses under item 79 while carrying this pool load).  [FT, 27 units, 5 preps this semester]",
       "items_owned": "None \u2014 support role only",
       "items_supporting": "17 items: #19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362, 74"
     },
     {
       "person": "Maglalang, Danica",
-      "role": "General Education Syllabi Pool writer (item 74) \u2014 writes the course description AND the OBE syllabus for 3 courses: HIS-GEC Readings in Philippine History; RIZ-GEC Rizal's Life and Works; CON-GEC The Contemporary World. 6 documents, one set serving all 8 programmes. To Chair K. Garcia: descriptions 9 Oct, syllabi 16 Oct 2026. Also Curriculum & Syllabi \u2014 BEED/BSED (not allocated BEED/BSED major courses under item 79 while carrying this pool load).  [FT, 24 units, 3 preps this semester]",
+      "role": "General Education Syllabi Pool writer (item 74) \u2014 writes the course description AND the OBE syllabus for 3 courses, one set serving all 8 programmes: CLE 2 Evangelism and Discipleship; HIS-GEC Readings in Philippine History; RIZ-GEC Rizal's Life and Works. 6 documents. To Chair K. Garcia: descriptions 9 Oct, syllabi 16 Oct 2026. Also Curriculum & Syllabi \u2014 BEED/BSED (not allocated BEED/BSED major courses under item 79 while carrying this pool load).  [FT, 24 units, 3 preps this semester]",
       "items_owned": "None \u2014 support role only",
       "items_supporting": "17 items: #19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362, 74"
     },
     {
       "person": "Manuel, Consuelo V., Dr.",
-      "role": "General Education Syllabi Pool writer (item 74) \u2014 writes the course description AND the OBE syllabus for 3 courses: REL-GEC Religion, Religious Experience and Spirituality; CLE 1 Church and Salvation History; CLE 2 Evangelism and Discipleship. 6 documents, one set serving all 8 programmes. To Chair K. Garcia: descriptions 9 Oct, syllabi 16 Oct 2026. Also Curriculum & Syllabi \u2014 BEED/BSED (not allocated BEED/BSED major courses under item 79 while carrying this pool load).  [FT, 24 units, 4 preps this semester]",
+      "role": "General Education Syllabi Pool writer (item 74) \u2014 writes the course description AND the OBE syllabus for 3 courses, one set serving all 8 programmes: ETH-GEC Ethics; MAT-GEC Mathematics in the Modern World; BL-GEC Business Logic. 6 documents. To Chair K. Garcia: descriptions 9 Oct, syllabi 16 Oct 2026. Also Curriculum & Syllabi \u2014 BEED/BSED (not allocated BEED/BSED major courses under item 79 while carrying this pool load).  [FT, 24 units, 4 preps this semester]",
       "items_owned": "None \u2014 support role only",
       "items_supporting": "17 items: #19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362, 74"
     },
     {
       "person": "Mequiabas, Meah",
-      "role": "General Education Syllabi Pool writer (item 74) \u2014 writes the course description AND the OBE syllabus for 2 courses: ETH-GEC Ethics; ITE-GEC Living in the I.T. Era. 4 documents, one set serving all 8 programmes. To Chair K. Garcia: descriptions 9 Oct, syllabi 16 Oct 2026. Also Curriculum & Syllabi \u2014 BEED/BSED (not allocated BEED/BSED major courses under item 79 while carrying this pool load).  [FT, 26 units, 4 preps this semester]",
+      "role": "General Education Syllabi Pool writer (item 74) \u2014 writes the course description AND the OBE syllabus for 3 courses, one set serving all 8 programmes: PATH-FIT 3 Dance; PATH-FIT 4 Sports; NSTP 2 Civic Welfare Training Service 2. 6 documents. To Chair K. Garcia: descriptions 9 Oct, syllabi 16 Oct 2026. Also Curriculum & Syllabi \u2014 BEED/BSED (not allocated BEED/BSED major courses under item 79 while carrying this pool load).  [FT, 26 units, 4 preps this semester]",
       "items_owned": "None \u2014 support role only",
       "items_supporting": "17 items: #19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362, 74"
     },
@@ -1074,7 +1074,7 @@
     },
     {
       "person": "Tolosa, Nenita",
-      "role": "General Education Syllabi Pool writer (item 74) \u2014 writes the course description AND the OBE syllabus for 2 courses: PATH-FIT 1 Movement Competency Training; PATH-FIT 2 Exercise-Based Fitness Activities. 4 documents, one set serving all 8 programmes. To Chair K. Garcia: descriptions 9 Oct, syllabi 16 Oct 2026. Also Curriculum & Syllabi \u2014 BEED/BSED (not allocated BEED/BSED major courses under item 79 while carrying this pool load).  [FT, 24 units, 5 preps this semester]",
+      "role": "General Education Syllabi Pool writer (item 74) \u2014 writes the course description AND the OBE syllabus for 3 courses, one set serving all 8 programmes: ART-GEC Art Appreciation; COM-GEC Purposive Communication; US-GEC Understanding the Self. 6 documents. To Chair K. Garcia: descriptions 9 Oct, syllabi 16 Oct 2026. Also Curriculum & Syllabi \u2014 BEED/BSED (not allocated BEED/BSED major courses under item 79 while carrying this pool load).  [FT, 24 units, 5 preps this semester]",
       "items_owned": "None \u2014 support role only",
       "items_supporting": "17 items: #19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362, 74"
     },
@@ -1464,9 +1464,9 @@
       "credential": "Dr.",
       "department": "Teacher Education (BEED / BSEDE / BSEDM / TEP)",
       "ft_pt": "FT",
-      "committee": "Curriculum & Syllabi \u2014 BEED/BSED; General Education Syllabi Pool (college-wide)",
-      "items_supporting": "#19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362",
-      "specific_task": "GENERAL EDUCATION SYLLABI POOL (tracker item 74) \u2014 write the COURSE DESCRIPTION and the OBE SYLLABUS for 2 allocated courses, one set serving all 8 programmes: NSTP 1 Civic Welfare Training Service 1; NSTP 2 Civic Welfare Training Service 2. 4 documents in total. Common syllabus template: 14-week trimester, 56 hours per 3-unit course, two examinations (midterm and final) plus one required monthly assessment and regular quizzes. Hand in to Chair Kent E. Garcia: descriptions 9 Oct 2026, syllabi 16 Oct 2026. Course codes are the BSA/BSAIS spellings \u2014 reconcile with your own programme's codes once Open Item 7 is closed. Not included in the BEED/BSED specialised allocation (item 79) while carrying this pool load. Records obligation on top, compulsory for all faculty: certified true copy of Transcript of Records and signed contract to HR by 30 Oct 2026 (items 12\u201313)."
+      "committee": "Curriculum & Syllabi \u2014 BEED/BSED",
+      "items_supporting": "#55\u201356, 61\u201362, 79",
+      "specific_task": "PROGRAMME-SPECIALISED COURSES \u2014 BEED and BSED. Write the COURSE DESCRIPTION and the OBE SYLLABUS for the BEED and BSED major courses allocated to you by Chair K. Garcia. The allocation naming your specific courses is tracked as item 79, due 25 Sep 2026. Common syllabus template: 14-week trimester, 56 hours per 3-unit course, two examinations (midterm and final) plus one required monthly assessment and regular quizzes. Hand in to your Chair: descriptions 9 Oct 2026, syllabi 16 Oct 2026. Feeds tracker items 55 and 56 (BEED) and 61 and 62 (BSED). MOVED OUT OF THE GENERAL EDUCATION SYLLABI POOL on 13 Sep 2026 by direction of the Vice Dean, so that this major-course load is not carried on top of the college-wide general education work \u2014 you hold the heaviest prep count in the department at 7. Records obligation on top, compulsory for all faculty: certified true copy of Transcript of Records and signed contract to HR by 30 Oct 2026 (items 12\u201313)."
     },
     {
       "id": 38,
@@ -1486,7 +1486,7 @@
       "ft_pt": "FT",
       "committee": "Curriculum & Syllabi \u2014 BEED/BSED; General Education Syllabi Pool (college-wide)",
       "items_supporting": "#19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362",
-      "specific_task": "GENERAL EDUCATION SYLLABI POOL (tracker item 74) \u2014 write the COURSE DESCRIPTION and the OBE SYLLABUS for 3 allocated courses, one set serving all 8 programmes: US-GEC Understanding the Self; ART-GEC Art Appreciation; COM-GEC Purposive Communication. 6 documents in total. Common syllabus template: 14-week trimester, 56 hours per 3-unit course, two examinations (midterm and final) plus one required monthly assessment and regular quizzes. Hand in to Chair Kent E. Garcia: descriptions 9 Oct 2026, syllabi 16 Oct 2026. Course codes are the BSA/BSAIS spellings \u2014 reconcile with your own programme's codes once Open Item 7 is closed. Not included in the BEED/BSED specialised allocation (item 79) while carrying this pool load. Records obligation on top, compulsory for all faculty: certified true copy of Transcript of Records and signed contract to HR by 30 Oct 2026 (items 12\u201313)."
+      "specific_task": "GENERAL EDUCATION SYLLABI POOL (tracker item 74) \u2014 write the COURSE DESCRIPTION and the OBE SYLLABUS for 3 allocated courses, one set serving all 8 programmes: PATH-FIT 1 Movement Competency Training; PATH-FIT 2 Exercise-Based Fitness Activities; NSTP 1 Civic Welfare Training Service 1. 6 documents in total. Common syllabus template: 14-week trimester, 56 hours per 3-unit course, two examinations (midterm and final) plus one required monthly assessment and regular quizzes. Hand in to Chair Kent E. Garcia: descriptions 9 Oct 2026, syllabi 16 Oct 2026. Course codes are the BSA/BSAIS spellings \u2014 reconcile with your own programme's codes once Open Item 7 is closed. Not included in the BEED/BSED specialised allocation (item 79) while carrying this pool load. NSTP 1 is the prerequisite of NSTP 2 and the two are split between Calma and Mequiabas \u2014 agree the two syllabi between you so the sequence holds. Records obligation on top, compulsory for all faculty: certified true copy of Transcript of Records and signed contract to HR by 30 Oct 2026 (items 12\u201313)."
     },
     {
       "id": 40,
@@ -1536,7 +1536,7 @@
       "ft_pt": "FT",
       "committee": "Curriculum & Syllabi \u2014 BEED/BSED; General Education Syllabi Pool (college-wide)",
       "items_supporting": "#19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362",
-      "specific_task": "GENERAL EDUCATION SYLLABI POOL (tracker item 74) \u2014 write the COURSE DESCRIPTION and the OBE SYLLABUS for 3 allocated courses, one set serving all 8 programmes: MAT-GEC Mathematics in the Modern World; BL-GEC Business Logic; STS-GEC Science, Technology and Society. 6 documents in total. Common syllabus template: 14-week trimester, 56 hours per 3-unit course, two examinations (midterm and final) plus one required monthly assessment and regular quizzes. Hand in to Chair Kent E. Garcia: descriptions 9 Oct 2026, syllabi 16 Oct 2026. Course codes are the BSA/BSAIS spellings \u2014 reconcile with your own programme's codes once Open Item 7 is closed. Not included in the BEED/BSED specialised allocation (item 79) while carrying this pool load. Records obligation on top, compulsory for all faculty: certified true copy of Transcript of Records and signed contract to HR by 30 Oct 2026 (items 12\u201313)."
+      "specific_task": "GENERAL EDUCATION SYLLABI POOL (tracker item 74) \u2014 write the COURSE DESCRIPTION and the OBE SYLLABUS for 3 allocated courses, one set serving all 8 programmes: REL-GEC Religion, Religious Experience and Spirituality; CLE 1 Church and Salvation History; STS-GEC Science, Technology and Society. 6 documents in total. Common syllabus template: 14-week trimester, 56 hours per 3-unit course, two examinations (midterm and final) plus one required monthly assessment and regular quizzes. Hand in to Chair Kent E. Garcia: descriptions 9 Oct 2026, syllabi 16 Oct 2026. Course codes are the BSA/BSAIS spellings \u2014 reconcile with your own programme's codes once Open Item 7 is closed. Not included in the BEED/BSED specialised allocation (item 79) while carrying this pool load. Records obligation on top, compulsory for all faculty: certified true copy of Transcript of Records and signed contract to HR by 30 Oct 2026 (items 12\u201313)."
     },
     {
       "id": 45,
@@ -1546,7 +1546,7 @@
       "ft_pt": "FT",
       "committee": "Curriculum & Syllabi \u2014 BEED/BSED; General Education Syllabi Pool (college-wide)",
       "items_supporting": "#19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362",
-      "specific_task": "GENERAL EDUCATION SYLLABI POOL (tracker item 74) \u2014 write the COURSE DESCRIPTION and the OBE SYLLABUS for 2 allocated courses, one set serving all 8 programmes: PATH-FIT 3 Dance; PATH-FIT 4 Sports. 4 documents in total. Common syllabus template: 14-week trimester, 56 hours per 3-unit course, two examinations (midterm and final) plus one required monthly assessment and regular quizzes. Hand in to Chair Kent E. Garcia: descriptions 9 Oct 2026, syllabi 16 Oct 2026. Course codes are the BSA/BSAIS spellings \u2014 reconcile with your own programme's codes once Open Item 7 is closed. Not included in the BEED/BSED specialised allocation (item 79) while carrying this pool load. Records obligation on top, compulsory for all faculty: certified true copy of Transcript of Records and signed contract to HR by 30 Oct 2026 (items 12\u201313)."
+      "specific_task": "GENERAL EDUCATION SYLLABI POOL (tracker item 74) \u2014 write the COURSE DESCRIPTION and the OBE SYLLABUS for 2 allocated courses, one set serving all 8 programmes: CON-GEC The Contemporary World; ITE-GEC Living in the I.T. Era. 4 documents in total. Common syllabus template: 14-week trimester, 56 hours per 3-unit course, two examinations (midterm and final) plus one required monthly assessment and regular quizzes. Hand in to Chair Kent E. Garcia: descriptions 9 Oct 2026, syllabi 16 Oct 2026. Course codes are the BSA/BSAIS spellings \u2014 reconcile with your own programme's codes once Open Item 7 is closed. Not included in the BEED/BSED specialised allocation (item 79) while carrying this pool load. Records obligation on top, compulsory for all faculty: certified true copy of Transcript of Records and signed contract to HR by 30 Oct 2026 (items 12\u201313)."
     },
     {
       "id": 46,
@@ -1556,7 +1556,7 @@
       "ft_pt": "FT",
       "committee": "Curriculum & Syllabi \u2014 BEED/BSED; General Education Syllabi Pool (college-wide)",
       "items_supporting": "#19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362",
-      "specific_task": "GENERAL EDUCATION SYLLABI POOL (tracker item 74) \u2014 write the COURSE DESCRIPTION and the OBE SYLLABUS for 3 allocated courses, one set serving all 8 programmes: HIS-GEC Readings in Philippine History; RIZ-GEC Rizal's Life and Works; CON-GEC The Contemporary World. 6 documents in total. Common syllabus template: 14-week trimester, 56 hours per 3-unit course, two examinations (midterm and final) plus one required monthly assessment and regular quizzes. Hand in to Chair Kent E. Garcia: descriptions 9 Oct 2026, syllabi 16 Oct 2026. Course codes are the BSA/BSAIS spellings \u2014 reconcile with your own programme's codes once Open Item 7 is closed. Not included in the BEED/BSED specialised allocation (item 79) while carrying this pool load. Records obligation on top, compulsory for all faculty: certified true copy of Transcript of Records and signed contract to HR by 30 Oct 2026 (items 12\u201313)."
+      "specific_task": "GENERAL EDUCATION SYLLABI POOL (tracker item 74) \u2014 write the COURSE DESCRIPTION and the OBE SYLLABUS for 3 allocated courses, one set serving all 8 programmes: CLE 2 Evangelism and Discipleship; HIS-GEC Readings in Philippine History; RIZ-GEC Rizal's Life and Works. 6 documents in total. Common syllabus template: 14-week trimester, 56 hours per 3-unit course, two examinations (midterm and final) plus one required monthly assessment and regular quizzes. Hand in to Chair Kent E. Garcia: descriptions 9 Oct 2026, syllabi 16 Oct 2026. Course codes are the BSA/BSAIS spellings \u2014 reconcile with your own programme's codes once Open Item 7 is closed. Not included in the BEED/BSED specialised allocation (item 79) while carrying this pool load. Records obligation on top, compulsory for all faculty: certified true copy of Transcript of Records and signed contract to HR by 30 Oct 2026 (items 12\u201313)."
     },
     {
       "id": 47,
@@ -1566,7 +1566,7 @@
       "ft_pt": "FT",
       "committee": "Curriculum & Syllabi \u2014 BEED/BSED; General Education Syllabi Pool (college-wide)",
       "items_supporting": "#19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362",
-      "specific_task": "GENERAL EDUCATION SYLLABI POOL (tracker item 74) \u2014 write the COURSE DESCRIPTION and the OBE SYLLABUS for 3 allocated courses, one set serving all 8 programmes: REL-GEC Religion, Religious Experience and Spirituality; CLE 1 Church and Salvation History; CLE 2 Evangelism and Discipleship. 6 documents in total. Common syllabus template: 14-week trimester, 56 hours per 3-unit course, two examinations (midterm and final) plus one required monthly assessment and regular quizzes. Hand in to Chair Kent E. Garcia: descriptions 9 Oct 2026, syllabi 16 Oct 2026. Course codes are the BSA/BSAIS spellings \u2014 reconcile with your own programme's codes once Open Item 7 is closed. Not included in the BEED/BSED specialised allocation (item 79) while carrying this pool load. Records obligation on top, compulsory for all faculty: certified true copy of Transcript of Records and signed contract to HR by 30 Oct 2026 (items 12\u201313)."
+      "specific_task": "GENERAL EDUCATION SYLLABI POOL (tracker item 74) \u2014 write the COURSE DESCRIPTION and the OBE SYLLABUS for 3 allocated courses, one set serving all 8 programmes: ETH-GEC Ethics; MAT-GEC Mathematics in the Modern World; BL-GEC Business Logic. 6 documents in total. Common syllabus template: 14-week trimester, 56 hours per 3-unit course, two examinations (midterm and final) plus one required monthly assessment and regular quizzes. Hand in to Chair Kent E. Garcia: descriptions 9 Oct 2026, syllabi 16 Oct 2026. Course codes are the BSA/BSAIS spellings \u2014 reconcile with your own programme's codes once Open Item 7 is closed. Not included in the BEED/BSED specialised allocation (item 79) while carrying this pool load. Records obligation on top, compulsory for all faculty: certified true copy of Transcript of Records and signed contract to HR by 30 Oct 2026 (items 12\u201313)."
     },
     {
       "id": 48,
@@ -1576,7 +1576,7 @@
       "ft_pt": "FT",
       "committee": "Curriculum & Syllabi \u2014 BEED/BSED; General Education Syllabi Pool (college-wide)",
       "items_supporting": "#19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362",
-      "specific_task": "GENERAL EDUCATION SYLLABI POOL (tracker item 74) \u2014 write the COURSE DESCRIPTION and the OBE SYLLABUS for 2 allocated courses, one set serving all 8 programmes: ETH-GEC Ethics; ITE-GEC Living in the I.T. Era. 4 documents in total. Common syllabus template: 14-week trimester, 56 hours per 3-unit course, two examinations (midterm and final) plus one required monthly assessment and regular quizzes. Hand in to Chair Kent E. Garcia: descriptions 9 Oct 2026, syllabi 16 Oct 2026. Course codes are the BSA/BSAIS spellings \u2014 reconcile with your own programme's codes once Open Item 7 is closed. Not included in the BEED/BSED specialised allocation (item 79) while carrying this pool load. Records obligation on top, compulsory for all faculty: certified true copy of Transcript of Records and signed contract to HR by 30 Oct 2026 (items 12\u201313)."
+      "specific_task": "GENERAL EDUCATION SYLLABI POOL (tracker item 74) \u2014 write the COURSE DESCRIPTION and the OBE SYLLABUS for 3 allocated courses, one set serving all 8 programmes: PATH-FIT 3 Dance; PATH-FIT 4 Sports; NSTP 2 Civic Welfare Training Service 2. 6 documents in total. Common syllabus template: 14-week trimester, 56 hours per 3-unit course, two examinations (midterm and final) plus one required monthly assessment and regular quizzes. Hand in to Chair Kent E. Garcia: descriptions 9 Oct 2026, syllabi 16 Oct 2026. Course codes are the BSA/BSAIS spellings \u2014 reconcile with your own programme's codes once Open Item 7 is closed. Not included in the BEED/BSED specialised allocation (item 79) while carrying this pool load. NSTP 1 is the prerequisite of NSTP 2 and the two are split between Calma and Mequiabas \u2014 agree the two syllabi between you so the sequence holds. Records obligation on top, compulsory for all faculty: certified true copy of Transcript of Records and signed contract to HR by 30 Oct 2026 (items 12\u201313)."
     },
     {
       "id": 49,
@@ -1596,7 +1596,7 @@
       "ft_pt": "FT",
       "committee": "Curriculum & Syllabi \u2014 BEED/BSED; General Education Syllabi Pool (college-wide)",
       "items_supporting": "#19\u201320, 25\u201326, 31\u201332, 37\u201338, 43\u201344, 49\u201350, 55\u201356, 61\u201362",
-      "specific_task": "GENERAL EDUCATION SYLLABI POOL (tracker item 74) \u2014 write the COURSE DESCRIPTION and the OBE SYLLABUS for 2 allocated courses, one set serving all 8 programmes: PATH-FIT 1 Movement Competency Training; PATH-FIT 2 Exercise-Based Fitness Activities. 4 documents in total. Common syllabus template: 14-week trimester, 56 hours per 3-unit course, two examinations (midterm and final) plus one required monthly assessment and regular quizzes. Hand in to Chair Kent E. Garcia: descriptions 9 Oct 2026, syllabi 16 Oct 2026. Course codes are the BSA/BSAIS spellings \u2014 reconcile with your own programme's codes once Open Item 7 is closed. Not included in the BEED/BSED specialised allocation (item 79) while carrying this pool load. Records obligation on top, compulsory for all faculty: certified true copy of Transcript of Records and signed contract to HR by 30 Oct 2026 (items 12\u201313)."
+      "specific_task": "GENERAL EDUCATION SYLLABI POOL (tracker item 74) \u2014 write the COURSE DESCRIPTION and the OBE SYLLABUS for 3 allocated courses, one set serving all 8 programmes: ART-GEC Art Appreciation; COM-GEC Purposive Communication; US-GEC Understanding the Self. 6 documents in total. Common syllabus template: 14-week trimester, 56 hours per 3-unit course, two examinations (midterm and final) plus one required monthly assessment and regular quizzes. Hand in to Chair Kent E. Garcia: descriptions 9 Oct 2026, syllabi 16 Oct 2026. Course codes are the BSA/BSAIS spellings \u2014 reconcile with your own programme's codes once Open Item 7 is closed. Not included in the BEED/BSED specialised allocation (item 79) while carrying this pool load. Records obligation on top, compulsory for all faculty: certified true copy of Transcript of Records and signed contract to HR by 30 Oct 2026 (items 12\u201313)."
     },
     {
       "id": 51,
