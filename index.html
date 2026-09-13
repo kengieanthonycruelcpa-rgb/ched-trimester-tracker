@@ -233,9 +233,9 @@
       }
       else if (currentTab === 'faculty') {
         let items = globalData.faculty.filter(i => i.name.toLowerCase().includes(query) || i.department.toLowerCase().includes(query));
-        let html = `<table><thead><tr><th>#</th><th>Faculty Member</th><th>Dept</th><th>Status</th><th>Committee Assignment</th><th>Supporting Items</th></tr></thead><tbody>`;
+        let html = `<table><thead><tr><th>#</th><th>Faculty Member</th><th>Dept</th><th>Status</th><th>Committee Assignment</th><th>Specific Task Assigned</th><th>Supporting Items</th></tr></thead><tbody>`;
         items.forEach(i => {
-          html += `<tr><td>${i.id}</td><td><strong>${i.name}</strong>, ${i.credential}</td><td>${i.department}</td><td>${i.ft_pt}</td><td>${i.committee}</td><td>${i.items_supporting}</td></tr>`;
+          html += `<tr><td>${i.id}</td><td><strong>${i.name}</strong>, ${i.credential}</td><td>${i.department}</td><td>${i.ft_pt}</td><td>${i.committee}</td><td style="min-width:320px">${i.specific_task || '<em style=\'color:#999\'>not yet assigned</em>'}</td><td>${i.items_supporting}</td></tr>`;
         });
         container.innerHTML = html + `</tbody></table>`;
       }

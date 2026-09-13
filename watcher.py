@@ -146,6 +146,7 @@ def build_json():
             f_stat = find_col(df_fac, ['ft / pt', 'ft/pt', 'status'])
             f_comm = find_col(df_fac, ['committee assignment', 'committee'])
             f_supp = find_col(df_fac, ['tracker items supporting', 'supporting items', 'items'])
+            f_task = find_col(df_fac, ['specific task assigned', 'specific task', 'assigned task'])
             for idx, row in df_fac.iterrows():
                 fn_val = safe_str(row[f_name]) if f_name else ""
                 if not fn_val:
@@ -157,7 +158,8 @@ def build_json():
                     "department": safe_str(row[f_dept]) if f_dept else "",
                     "ft_pt": safe_str(row[f_stat]) if f_stat else "",
                     "committee": safe_str(row[f_comm]) if f_comm else "",
-                    "items_supporting": safe_str(row[f_supp]) if f_supp else ""
+                    "items_supporting": safe_str(row[f_supp]) if f_supp else "",
+                    "specific_task": safe_str(row[f_task]) if f_task else ""
                 })
 
         # ---------- My Outputs ----------
