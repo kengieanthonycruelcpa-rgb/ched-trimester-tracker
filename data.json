@@ -38,7 +38,7 @@
       "due_date": "2026-10-09",
       "status": "Not started",
       "progress": 0,
-      "notes": "Phase 2 of the project plan assigns market demand data gathering to MIS with the Chairs. 23 Sep 2026: Section III of the BSA and BSAIS feasibility studies carries the College's rationale on demand, flagged in the document itself as rationale and not survey findings. The market demand study supersedes it when available. Evidence now in Section III of both studies: 95% of BSA and BSAIS graduates are gainfully employed in work related to their field, on the College's own graduate survey; the first batch of CPALE examinees returned 4 passers out of 6. The survey instrument, period, population and respondents, and the PRC report of rating, must be attached as annexes. 23 Sep 2026: an acceptability survey on the proposed change is ready to run \u2014 questionnaire (form ref. HCC-VD-TRI-ACC-01, 23 Likert items in four parts plus preference and open questions) and a tabulation workbook that computes weighted means, verbal interpretations and an acceptability index as responses are encoded. In BSA & BSAIS Outputs/Acceptability Survey. Still to decide: who is asked and how they are chosen \u2014 CHED will ask."
+      "notes": "Phase 2 of the project plan assigns market demand data gathering to MIS with the Chairs. 23 Sep 2026: Section III of the BSA and BSAIS feasibility studies carries the College's rationale on demand, flagged in the document itself as rationale and not survey findings. The market demand study supersedes it when available. Evidence now in Section III of both studies: 95% of BSA and BSAIS graduates are gainfully employed in work related to their field, on the College's own graduate survey; the first batch of CPALE examinees returned 4 passers out of 6. The survey instrument, period, population and respondents, and the PRC report of rating, must be attached as annexes. 23 Sep 2026: an acceptability survey on the proposed change is ready to run \u2014 questionnaire (form ref. HCC-VD-TRI-ACC-01, 23 Likert items in four parts plus preference and open questions) and a tabulation workbook that computes weighted means, verbal interpretations and an acceptability index as responses are encoded. In BSA & BSAIS Outputs/Acceptability Survey. Still to decide: who is asked and how they are chosen \u2014 CHED will ask. 23 Sep 2026: house standard set for this application \u2014 every document is built on the College's official letterhead template (HEADER-PORTRAIT-SHORT-LONG.docx) on short bond, 8.5 x 11. The feasibility studies and the acceptability survey are already on it. The sampling plan for the survey is in the tabulation workbook: whole-population for the small groups, Slovin at a 5% margin for the large ones."
     },
     {
       "id": 5,
@@ -1761,6 +1761,14 @@
       "items_served": "Supports items 4, 5, 6",
       "status": "For review",
       "location": "BSA & BSAIS Outputs/Acceptability Survey \u2014 Word, PDF and Excel"
+    },
+    {
+      "date": "2026-09-23",
+      "output": "Sampling plan for the acceptability survey \u2014 eight respondent groups with who is asked and how they are chosen, populations entered by office, target respondents computed (whole population for small groups, Slovin at 5% margin for large ones, floors for alumni and employers), and forms-out against forms-back with response rate. Plus all feasibility and survey documents rebuilt on the official HCC letterhead, short bond",
+      "capacity": "Program Chair, BSA & BSAIS",
+      "items_served": "Supports items 3\u20138",
+      "status": "For review",
+      "location": "BSA & BSAIS Outputs/Acceptability Survey and /Feasibility Study"
     }
   ]
 }
