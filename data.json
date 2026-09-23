@@ -38,7 +38,7 @@
       "due_date": "2026-10-09",
       "status": "Not started",
       "progress": 0,
-      "notes": "Phase 2 of the project plan assigns market demand data gathering to MIS with the Chairs. 23 Sep 2026: Section III of the BSA and BSAIS feasibility studies carries the College's rationale on demand, flagged in the document itself as rationale and not survey findings. The market demand study supersedes it when available."
+      "notes": "Phase 2 of the project plan assigns market demand data gathering to MIS with the Chairs. 23 Sep 2026: Section III of the BSA and BSAIS feasibility studies carries the College's rationale on demand, flagged in the document itself as rationale and not survey findings. The market demand study supersedes it when available. Evidence now in Section III of both studies: 95% of BSA and BSAIS graduates are gainfully employed in work related to their field, on the College's own graduate survey; the first batch of CPALE examinees returned 4 passers out of 6. The survey instrument, period, population and respondents, and the PRC report of rating, must be attached as annexes."
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "due_date": "2026-10-09",
       "status": "Not started",
       "progress": 0,
-      "notes": "23 Sep 2026: the feasibility studies project first-year intake at 30 (BSA) and 25 (BSAIS) growing ten per cent a year, and ask the Registrar for six years of historical freshmen enrolment to confirm or revise it."
+      "notes": "23 Sep 2026: the feasibility studies project first-year intake at 30 (BSA) and 25 (BSAIS) growing ten per cent a year, and ask the Registrar for six years of historical freshmen enrolment to confirm or revise it. The 95% employment result strengthens the prospective-student case and is cited in Section III of both studies."
     },
     {
       "id": 6,
@@ -1732,7 +1732,7 @@
     },
     {
       "date": "2026-09-23",
-      "output": "Feasibility study for the conversion of the BSA to a 3-year trimester delivery \u2014 description, management viability (administrator matrix), market viability (five-year enrolment projection from 30 first-year enrollees growing 10% a year), financial viability, matters to be supplied, conclusion and recommendation",
+      "output": "Feasibility study for the conversion of the BSA to a 3-year trimester delivery \u2014 description, management viability (administrator matrix), market viability (five-year enrolment projection from 30 first-year enrollees growing 10% a year), financial viability, matters to be supplied, conclusion and recommendation; cites the College's graduate survey (95% of BSA and BSAIS graduates gainfully employed in their field) and, for BSA, the first CPALE batch (4 passers of 6)",
       "capacity": "Program Chair, BSA",
       "items_served": "Items 3, 4, 5, 6, 7, 8",
       "status": "For review",
@@ -1740,7 +1740,7 @@
     },
     {
       "date": "2026-09-23",
-      "output": "Feasibility study for the conversion of the BSAIS to a 3-year trimester delivery \u2014 same structure, projected from 25 first-year enrollees growing 10% a year",
+      "output": "Feasibility study for the conversion of the BSAIS to a 3-year trimester delivery \u2014 same structure, projected from 25 first-year enrollees growing 10% a year; cites the College's graduate survey (95% of BSA and BSAIS graduates gainfully employed in their field) and, for BSA, the first CPALE batch (4 passers of 6)",
       "capacity": "Program Chair, BSAIS",
       "items_served": "Items 3, 4, 5, 6, 7, 8",
       "status": "For review",
