@@ -198,7 +198,7 @@
       "due_date": "2026-10-16",
       "status": "For review",
       "progress": 100,
-      "notes": "ASSESSMENT SCHEME confirmed by the Vice Dean, 3 Sep 2026: two examinations per term (midterm and final), one required monthly assessment, plus regular quizzes and activities. Every syllabus must carry this scheme. CAPACITY RISK: the programme-specialised courses here have no full-time author other than the Chair. 26 Oct 2026: all BSA course syllabi drafted on the OBE template (14-week / 56-hour basis, midterm Week 7, final Week 14) in BSA & BSAIS Outputs/Sample Syllabus/Drafts for Review; references left blank; subject-expert review pending. AE7-INT 400-hour deployment still to be confirmed."
+      "notes": "ASSESSMENT SCHEME confirmed by the Vice Dean, 3 Sep 2026: two examinations per term (midterm and final), one required monthly assessment, plus regular quizzes and activities. Every syllabus must carry this scheme. CAPACITY RISK: the programme-specialised courses here have no full-time author other than the Chair. 26 Oct 2026: all BSA course syllabi drafted on the OBE template (14-week / 56-hour basis, midterm Week 7, final Week 14) in BSA & BSAIS Outputs/Sample Syllabus/Drafts for Review; references left blank; subject-expert review pending. AE7-INT 400-hour deployment still to be confirmed. 26 Oct 2026: the syllabus drafts now carry the course teacher. Prepared by / Subject Instructor on each of the 24 First Year courses is the faculty member the Proposed Faculty Loading assigns to it \u2014 20 changed from the Vice Dean, 4 were already right. Reviewed by (Chair), Recommended by (Vice Dean) and Approved by (Dean) are unchanged. The 51 Second and Third Year syllabi still read Vice Dean as instructor, because no loading has been drawn for those years yet."
     },
     {
       "id": 21,
@@ -258,7 +258,7 @@
       "due_date": "2026-10-16",
       "status": "For review",
       "progress": 100,
-      "notes": "ASSESSMENT SCHEME confirmed by the Vice Dean, 3 Sep 2026: two examinations per term (midterm and final), one required monthly assessment, plus regular quizzes and activities. Every syllabus must carry this scheme. CAPACITY RISK: the programme-specialised courses here have no full-time author other than the Chair. 26 Oct 2026: all BSAIS course syllabi drafted on the OBE template (14-week / 56-hour basis, midterm Week 7, final Week 14) in BSA & BSAIS Outputs/Sample Syllabus/Drafts for Review; references left blank; subject-expert review pending. AE7-INT 400-hour deployment still to be confirmed."
+      "notes": "ASSESSMENT SCHEME confirmed by the Vice Dean, 3 Sep 2026: two examinations per term (midterm and final), one required monthly assessment, plus regular quizzes and activities. Every syllabus must carry this scheme. CAPACITY RISK: the programme-specialised courses here have no full-time author other than the Chair. 26 Oct 2026: all BSAIS course syllabi drafted on the OBE template (14-week / 56-hour basis, midterm Week 7, final Week 14) in BSA & BSAIS Outputs/Sample Syllabus/Drafts for Review; references left blank; subject-expert review pending. AE7-INT 400-hour deployment still to be confirmed. 26 Oct 2026: the syllabus drafts now carry the course teacher. Prepared by / Subject Instructor on each of the 24 First Year courses is the faculty member the Proposed Faculty Loading assigns to it \u2014 20 changed from the Vice Dean, 4 were already right. Reviewed by (Chair), Recommended by (Vice Dean) and Approved by (Dean) are unchanged. The 51 Second and Third Year syllabi still read Vice Dean as instructor, because no loading has been drawn for those years yet."
     },
     {
       "id": 27,
@@ -1801,6 +1801,14 @@
       "items_served": "Items 20, 26; supports items 74, 75",
       "status": "For review",
       "location": "BSA & BSAIS Outputs/Sample Syllabus/Drafts for Review \u2014 Word"
+    },
+    {
+      "date": "2026-10-26",
+      "output": "Course teacher named on every First Year syllabus \u2014 Prepared by / Subject Instructor set from the Proposed Faculty Loading across 24 courses (J.R. Francisco: FAR, CFAS; J.R. Empay: CBME 1, BL1; D.N. Santiago: MGT1; R. Cruz: FINMGT; M. Germino: MAT-GEC, HIS-GEC; N. Tolosa: US-GEC; S.M. Calma: PATH-FIT 1; L. Ramos: NSTP 1 and 2; M. Mequiabas: ART-GEC, PATH-FIT 2 and 3; X. Villamayor: COM-GEC, CON-GEC; F. Ilag: REL-GEC, CLE 1; J. Jamlang: RIZ-GEC; Vice Dean: ECO1, IA1, CAC). Middle initials are missing for most and should be supplied before filing",
+      "capacity": "Program Chair, BSA & BSAIS",
+      "items_served": "Items 20, 26",
+      "status": "For review",
+      "location": "BSA & BSAIS Outputs/Sample Syllabus and /Drafts for Review"
     }
   ]
 }
